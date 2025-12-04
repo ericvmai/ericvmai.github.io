@@ -1,19 +1,26 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "website"
+  title: "Eric Mai"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+      - href: cv.qmd
+        text: CV
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-

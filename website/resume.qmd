@@ -1,0 +1,48 @@
+---
+title: "Resume"
+---
+
+## Professional Summary
+
+[Brief professional summary - 2-3 sentences about your current role and expertise]
+
+## Work Experience
+
+### [Job Title]
+**[Company Name]** | [Location]
+*[Start Date] - [End Date or Present]*
+
+- Key responsibility or achievement
+- Key responsibility or achievement
+- Key responsibility or achievement
+
+### [Previous Job Title]
+**[Company Name]** | [Location]
+*[Start Date] - [End Date]*
+
+- Key responsibility or achievement
+- Key responsibility or achievement
+- Key responsibility or achievement
+
+## Education
+
+### [Degree Name]
+**[University Name]** | [Location]
+*[Graduation Year]*
+
+- Major: [Your Major]
+- Relevant coursework or achievements
+
+## Skills
+
+- **Technical Skills:** [List technical skills]
+- **Tools & Software:** [List tools and software]
+- **Languages:** [Programming languages or spoken languages]
+
+## Certifications
+
+- [Certification Name] - [Issuing Organization], [Year]
+
+## Awards & Recognition
+
+- [Award Name] - [Organization], [Year]

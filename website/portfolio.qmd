@@ -1,0 +1,89 @@
+---
+title: "Portfolio"
+---
+
+Welcome to my portfolio! Here you'll find a selection of my projects and work.
+
+## Featured Projects
+
+### [Project 1 Name]
+
+![Project 1 Image](images/project1.png)
+
+**Description:** [Brief description of the project - what it does, why it's important]
+
+**Technologies Used:** [R, Quarto, ggplot2, etc.]
+
+**Key Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+
+**Links:** [GitHub](link) | [Live Demo](link) | [Documentation](link)
+
+---
+
+### [Project 2 Name]
+
+![Project 2 Image](images/project2.png)
+
+**Description:** [Brief description of the project]
+
+**Technologies Used:** [List technologies]
+
+**Key Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+
+**Links:** [GitHub](link) | [Live Demo](link)
+
+---
+
+### [Project 3 Name]
+
+![Project 3 Image](images/project3.png)
+
+**Description:** [Brief description of the project]
+
+**Technologies Used:** [List technologies]
+
+**Key Achievements:**
+- Achievement 1
+- Achievement 2
+- Achievement 3
+
+**Links:** [GitHub](link) | [Publication](link)
+
+---
+
+## Other Projects
+
+- **[Project Name]:** [Brief description] - [Link]
+- **[Project Name]:** [Brief description] - [Link]
+- **[Project Name]:** [Brief description] - [Link]
+
+---
+
+## Data Visualizations
+
+[If you have data visualization work, showcase some examples here]
+
+```{r}
+#| echo: false
+#| eval: false
+# Example R code for creating visualizations
+# library(ggplot2)
+# [Your visualization code]
+```
+
+---
+
+## Open Source Contributions
+
+- **[Repository Name]:** [Description of contribution]
+- **[Repository Name]:** [Description of contribution]
+
+---
+
+*For more projects, visit my [GitHub profile](https://github.com/yourusername)*
