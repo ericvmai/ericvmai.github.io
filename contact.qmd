@@ -1,0 +1,60 @@
+---
+title: "Contact"
+---
+
+## Get in Touch
+
+I'd love to hear from you! Feel free to reach out through any of the following channels:
+
+## Contact Information
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
+
+## Office Hours
+
+[If applicable - list when you're available for meetings or consultations]
+
+- **Days:** [Monday, Wednesday, Friday]
+- **Time:** [2:00 PM - 4:00 PM EST]
+- **Location/Platform:** [Zoom/Office location]
+
+## Mailing Address
+
+[If you want to include a physical address]
+
+```
+[Your Name]
+[Street Address]
+[City, State ZIP]
+[Country]
+```
+
+## Contact Form
+
+[You can add a contact form integration here using services like Formspree, Google Forms, or other form services]
+
+For a simple form, you could embed an iframe or link to an external form:
+
+<!-- Example with Formspree -->
+<!-- <form action="https://formspree.io/f/your-form-id" method="POST">
+  <label>
+    Your email:
+    <input type="email" name="email" required>
+  </label>
+  <label>
+    Your message:
+    <textarea name="message" required></textarea>
+  </label>
+  <button type="submit">Send</button>
+</form> -->
+
+## Response Time
+
+I typically respond to emails within 24-48 hours during business days.
+
+---
+
+*Looking forward to connecting with you!*

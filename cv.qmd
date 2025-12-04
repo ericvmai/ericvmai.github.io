@@ -1,0 +1,129 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Eric Mai
+
+[Your Title/Position]
+[Your Institution/Organization]
+[Email] | [Phone] | [Website]
+
+---
+
+## Education
+
+### [Degree Name]
+**[University Name]** | [Location]
+*[Year]*
+
+- Dissertation: [Title]
+- Advisor: [Advisor Name]
+- Relevant coursework: [List courses]
+
+### [Previous Degree]
+**[University Name]** | [Location]
+*[Year]*
+
+---
+
+## Research Experience
+
+### [Research Position Title]
+**[Institution/Lab Name]** | [Location]
+*[Start Date] - [End Date or Present]*
+
+- Research focus and methodology
+- Key findings or contributions
+- Technologies/tools used
+
+### [Previous Research Position]
+**[Institution/Lab Name]** | [Location]
+*[Start Date] - [End Date]*
+
+- Research focus and methodology
+- Key findings or contributions
+
+---
+
+## Publications
+
+### Peer-Reviewed Articles
+
+1. [Author names]. ([Year]). [Title]. *[Journal Name]*, [Volume]([Issue]), [Pages]. DOI: [DOI]
+
+2. [Author names]. ([Year]). [Title]. *[Journal Name]*, [Volume]([Issue]), [Pages].
+
+### Conference Proceedings
+
+1. [Author names]. ([Year]). [Title]. In *[Conference Name]* (pp. [Pages]). [Location].
+
+### Working Papers
+
+1. [Author names]. ([Year]). [Title]. [Status/Details].
+
+---
+
+## Presentations
+
+### Conference Presentations
+
+- [Title]. Presented at [Conference Name], [Location], [Date].
+- [Title]. Presented at [Conference Name], [Location], [Date].
+
+### Invited Talks
+
+- [Title]. [Institution/Organization], [Location], [Date].
+
+---
+
+## Teaching Experience
+
+### [Course Title]
+**[Institution]** | [Role: Instructor/TA]
+*[Semester/Year]*
+
+- Course description and level
+- Number of students
+- Key topics covered
+
+---
+
+## Grants & Funding
+
+- [Grant Name], [Funding Agency], [Amount], [Year]
+- [Fellowship Name], [Organization], [Year]
+
+---
+
+## Professional Service
+
+### Reviewing
+
+- Reviewer for [Journal Name]
+- Reviewer for [Conference Name]
+
+### Committee Membership
+
+- [Committee Name], [Organization], [Year]
+- [Committee Name], [Organization], [Year]
+
+---
+
+## Skills
+
+**Technical Skills:** [List technical and research skills]
+**Software:** [R, Python, STATA, etc.]
+**Languages:** [English (native), etc.]
+
+---
+
+## Professional Memberships
+
+- [Organization Name], [Member Type], [Year]
+- [Organization Name], [Member Type], [Year]
+
+---
+
+## References
+
+Available upon request.

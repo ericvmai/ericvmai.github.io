@@ -1,0 +1,19 @@
+---
+title: "Welcome"
+---
+
+# Eric Mai
+
+Welcome to my personal website!
+
+## About Me
+
+[Add your introduction here - a brief paragraph about who you are, what you do, and your interests]
+
+## Quick Links
+
+- [About Me](about.qmd) - Learn more about my background
+- [Resume](resume.qmd) - View my professional experience
+- [CV](cv.qmd) - Academic curriculum vitae
+- [Portfolio](portfolio.qmd) - Explore my projects and work
+- [Contact](contact.qmd) - Get in touch with me
