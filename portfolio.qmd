@@ -6,7 +6,7 @@ Welcome to my portfolio! Here you'll find a selection of my projects and work.
 
 ## Featured Projects
 
-### [Project 1 Name]
+### House Bill 854 
 
 ![Project 1 Image](images/project1.png)
 
@@ -23,7 +23,7 @@ Welcome to my portfolio! Here you'll find a selection of my projects and work.
 
 ---
 
-### [Project 2 Name]
+### Faith-Owned Property Ownership in Virginia
 
 ![Project 2 Image](images/project2.png)
 
@@ -40,7 +40,24 @@ Welcome to my portfolio! Here you'll find a selection of my projects and work.
 
 ---
 
-### [Project 3 Name]
+### Middle Income Housing Programs: A National Scan
+
+![Project 3 Image](images/project3.png)
+
+**Description:** [Brief description of the project]
+
+**Technologies Used:** [List technologies]
+
+**Key Achievements:**
+- Achievement 1
+- Achievement 2
+- Achievement 3
+
+**Links:** [GitHub](link) | [Publication](link)
+
+---
+
+### HousingX 2022
 
 ![Project 3 Image](images/project3.png)
 
@@ -67,7 +84,28 @@ Welcome to my portfolio! Here you'll find a selection of my projects and work.
 
 ## Data Visualizations
 
-[If you have data visualization work, showcase some examples here]
+```{=html}
+
+<iframe id="vza" src="https://housingforwardva.shinyapps.io/va_zoning_atlas/" style="border: none; width: 700px; height: 1000px" frameborder="0"></iframe>
+
+```
+
+```{=html}
+
+<iframe id="hcv" src="https://housingforwardva.shinyapps.io/hcv_dashboard/" style="border: none; width: 700px; height: 800x" frameborder="0"></iframe>
+
+```
+
+```{=html}
+
+<iframe id="adu" src="https://housingforwardva.shinyapps.io/playbook_adu/
+" style="border: none; width: 700px; height: 800x" frameborder="0"></iframe>
+
+```
+
+
+
+
 
 ```{r}
 #| echo: false

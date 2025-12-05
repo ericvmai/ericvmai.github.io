@@ -9,28 +9,9 @@ I'd love to hear from you! Feel free to reach out through any of the following c
 ## Contact Information
 
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn:** [linkedin.com/in/ericvmai](https://www.linkedin.com/in/ericvmai)
+- **GitHub:** [github.com/yourusername](https://github.com/ericvmai)
 
-## Office Hours
-
-[If applicable - list when you're available for meetings or consultations]
-
-- **Days:** [Monday, Wednesday, Friday]
-- **Time:** [2:00 PM - 4:00 PM EST]
-- **Location/Platform:** [Zoom/Office location]
-
-## Mailing Address
-
-[If you want to include a physical address]
-
-```
-[Your Name]
-[Street Address]
-[City, State ZIP]
-[Country]
-```
 
 ## Contact Form
 
