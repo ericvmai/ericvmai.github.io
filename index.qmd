@@ -2,65 +2,12 @@
 title: "Welcome"
 ---
 
-# <span class="gradient-text">Eric Mai</span>
+# [Eric Mai]{.gradient-text}
 
-Policy leader and researcher with proven track record securing $1M+ in grant funding, launching statewide data initiatives, and driving 20%+ annual revenue growth. Expertise combining data-driven research with strategic leadership to advance affordable housing solutions across Virginia. Skilled at building cross-sector partnerships, managing complex stakeholder relationships, and translating technical analysis into actionable policy. Previous career in archaeological research and cultural resource management from 2012 to 2018.
+![](resources/eric.jpg){width="400"}
+
+Policy leader and researcher with proven track record securing \$1M+ in grant funding, launching statewide data initiatives, and driving 20%+ annual revenue growth. Expertise combining data-driven research with strategic leadership to advance affordable housing solutions across Virginia. Skilled at building cross-sector partnerships, managing complex stakeholder relationships, and translating technical analysis into actionable policy. Previous career in archaeological research and cultural resource management from 2012 to 2018.
 
 ## About Me
 
-[Add your introduction here - a brief paragraph about who you are, what you do, and your interests]
 
-## Quick Links
-
-::::: {.row}
-
-:::: {.col-md-6}
-::: {.content-box}
-### About Me
-Learn more about my background, experience, and interests.
-
-[Learn More](about.qmd){.btn .btn-primary}
-:::
-::::
-
-:::: {.col-md-6}
-::: {.content-box}
-### Portfolio
-Explore my projects, research, and creative work.
-
-[View Portfolio](portfolio.qmd){.btn .btn-secondary}
-:::
-::::
-
-:::::
-
-::::: {.row}
-
-:::: {.col-md-4}
-::: {.content-box}
-### Resume
-Professional experience and qualifications.
-
-[View Resume](resume.qmd){.btn .btn-accent}
-:::
-::::
-
-:::: {.col-md-4}
-::: {.content-box}
-### CV
-Academic curriculum vitae and publications.
-
-[View CV](cv.qmd){.btn .btn-accent}
-:::
-::::
-
-:::: {.col-md-4}
-::: {.content-box}
-### Contact
-Get in touch for collaborations or opportunities.
-
-[Contact Me](contact.qmd){.btn .btn-accent}
-:::
-::::
-
-:::::
