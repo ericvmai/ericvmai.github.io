@@ -1,5 +1,4 @@
 /* ===== ERIC MAI PERSONAL WEBSITE STYLES ===== */
-/* Adapted from HD Advisors design system */
 
 /* ===== CSS CUSTOM PROPERTIES (CSS VARIABLES) ===== */
 :root {
@@ -271,8 +270,8 @@ h4, .h4, h5, .h5, h6, .h6 {
 }
 
 .btn-primary:hover {
-  background-color: color-mix(in srgb, var(--primary) 85%, black);
-  border-color: color-mix(in srgb, var(--primary) 85%, black);
+  background-color: #1a2129;
+  border-color: #1a2129;
 }
 
 .btn-secondary {
@@ -282,8 +281,8 @@ h4, .h4, h5, .h5, h6, .h6 {
 }
 
 .btn-secondary:hover {
-  background-color: color-mix(in srgb, var(--secondary) 85%, black);
-  border-color: color-mix(in srgb, var(--secondary) 85%, black);
+  background-color: #253a56;
+  border-color: #253a56;
 }
 
 .btn-accent {
@@ -293,8 +292,8 @@ h4, .h4, h5, .h5, h6, .h6 {
 }
 
 .btn-accent:hover {
-  background-color: color-mix(in srgb, var(--accent-coral) 85%, black);
-  border-color: color-mix(in srgb, var(--accent-coral) 85%, black);
+  background-color: #d4573b;
+  border-color: #d4573b;
   color: white;
 }
 
@@ -307,7 +306,7 @@ h4, .h4, h5, .h5, h6, .h6 {
 }
 
 .table th {
-  background-color: color-mix(in srgb, var(--primary) 20%, white);
+  background-color: rgba(31, 38, 46, 0.1);
   color: var(--primary);
   font-weight: 700;
   text-align: left;
@@ -325,7 +324,7 @@ h4, .h4, h5, .h5, h6, .h6 {
 }
 
 .table-hover tbody tr:hover {
-  background-color: color-mix(in srgb, var(--primary) 7.5%, white);
+  background-color: rgba(31, 38, 46, 0.05);
 }
 
 /* ===== RESPONSIVE GRID SYSTEM ===== */
