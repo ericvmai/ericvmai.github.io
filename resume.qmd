@@ -4,45 +4,119 @@ title: "Resume"
 
 ## Professional Summary
 
-[Brief professional summary - 2-3 sentences about your current role and expertise]
+Policy leader and researcher with proven track record securing \$1M+ in grant funding, launching statewide data initiatives, and driving 20%+ annual revenue growth. Expertise combining data-driven research with strategic leadership to advance affordable housing solutions across Virginia. 
+
+Skilled at building cross-sector partnerships, managing complex stakeholder relationships, and translating technical analysis into actionable policy. Previous career in archaeological research and cultural resource management from 2012 to 2018.
 
 ## Work Experience
 
-### [Job Title]
-**[Company Name]** | [Location]
-*[Start Date] - [End Date or Present]*
+### Vice President
+**HDAdvisors** | Richmond, Virginia
+*January 2024 - January 2026*
 
-- Key responsibility or achievement
-- Key responsibility or achievement
-- Key responsibility or achievement
+- Drive business development and strategic direction as equity partner, expanding client portfolio across nonprofit and government sectors
+- Lead consulting engagements for affordable housing development and organizational strategy; provide real estate finance consulting for low-capacity non-profit organizations
+- Provide fractional executive leadership to nonprofit clients, serving concurrently as:
+    - **Executive Director for Strategy & Sustainability, HousingForward Virginia**: Secured $1M in grant funding, grew revenue 20%+ annually, developed organization’s first fiscal controls policy, implemented GAAP, led first strategic planning process, manageD 6,000+ subscriber newsletter, managed diverse board of 15+ housing leaders across public/private sectors
 
-### [Previous Job Title]
-**[Company Name]** | [Location]
-*[Start Date] - [End Date]*
+### Senior Associate
+**HDAdvisors** | Richmond, Virginia
+*March 2020 - December 2023*
 
-- Key responsibility or achievement
-- Key responsibility or achievement
-- Key responsibility or achievement
+- Co-authored HB854 Virginia Statewide Housing Needs Assessment commissioned by Virginia General Assembly, influencing state housing policy
+- Led housing needs assessments for 5+ localities
+- Planned and executed HousingX 2022, an affordable housing innovation conference bringing together 200+ affordable housing innovators and practitioners
+- Provided fractional leadership to nonprofit clients, serving concurrently as:
+    - **Director of Real Estate, Maggie Walker Community Land Trust**: Oversaw 30+ unit affordable homeownership pipeline, expanded developer partnerships for land acquisition, manage government and partner relationships
+
+### Research Assistant
+**VCU Survey and Evaluation Research Lab** | Richmond, Virginia
+*May 2018 - March 2020*
+
+- Co-authored Virginia Department of Health report establishing framework for Overdose Fatality Review Team
+- Evaluated diversity and inclusion program effectiveness in higher education
+- Maintained complex database supporting statewide Judicial Performance Evaluation program
+
+### Field Archaeologist
+**Circa~ Cultural Resources Management** | Williamsburg, Virginia
+*January 2012 - May 2018*
+
+- Whistleblower to protect the Monacan Nation's historic capital, Rassawek
+- Excavated over 30 sites across the Mid-Atlantic, ranging from pre-historic to late 19th century
 
 ## Education
 
-### [Degree Name]
-**[University Name]** | [Location]
-*[Graduation Year]*
+### Master of Urban and Regional Planning
+**Virginia Commonwealth University** | Richmond, Virginia
+*2020*
 
-- Major: [Your Major]
-- Relevant coursework or achievements
+- Major: Urban and Regional Planning
+- Graduate Certificate: Geographic Information Systems (GIS)
+- John Marlles Scholarship recipient
+
+### Master of Art
+**University of Leicester** | Leicestershire, UK
+*2017*
+
+- Major: Archaeology and Heritage Management
+- Mark Pluciennik MA Dissertation Prize recipient
+
+### Bachelor of Art
+**Christopher Newport University** | Newport News, Virginia
+*2011*
+
+- Major: Art History
+- Minor: Studio
 
 ## Skills
 
-- **Technical Skills:** [List technical skills]
-- **Tools & Software:** [List tools and software]
-- **Languages:** [Programming languages or spoken languages]
+- **Technical Skills:** 
+    - Grant writing and fund development ($1M+ secured)
+    - Nonprofit accounting
+    - Program evaluation and impact assessment
+    - Budget management and financial oversight
+    - Stakeholder engagement and facilitation
+    - Compliance and reporting
+    - Real estate finance and development
+    - • Strategic planning and implementation
+    - Policy research and white paper development
+    - Data visualization and dashboard development
+    - Public speaking and presentations
+    - Social media strategy and content management
+    - WordPress and web application
+    development
+    - Organizational management and board governance
 
-## Certifications
+<div>
+<div>   
+- **Tools & Software:** 
+    - Adobe Creative Suite
+    - ArcGIS
+    - Canva
+    - LLM (Claude, ChatGPT, Gemini)
+    - Microsoft Power BI
+    - Positron
+    - QGIS
+    - RDS
+    - RStudio
+    - S3
+    - Salesforce
+    - Shiny
+    - SQL fundamentals
+    - Tableau
 
-- [Certification Name] - [Issuing Organization], [Year]
+<div>
+<div>   
+- **Languages:**
+    - R 
+    - HTML
+    - 
 
-## Awards & Recognition
+## Board Leadership and Advisory Roles
+- City of Richmond Zoning Advisory Council | June 2024 - Present
+- Commonwealth Catholic Charities Housing Corporation Board | January 2025 - Present
+- RVA CDC Board | June 2024 - Present
+- Virginia Housing Supportive Housing Solution Advisory Council | January 2024 - Present
+- project:HOMES Community Engagement Board | January 2020 - May 2023
+- Council of Virginia Archaeologists | January 2020 - January 2023
 
-- [Award Name] - [Organization], [Year]

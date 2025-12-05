@@ -16,9 +16,33 @@ While I had many opportunities to grow in the music industry, I felt a pull towa
 
 Upon graduation in 2012, I ended up at a cultural resources management firm doing archaeology across the Mid-Atlantic. Digging up layers of history throughout Virginia exposed me to Virginia's expansive geography and culture. I was all in on archaeology at the time and decided to pursue a master's degree in archaeology while working in the field.
 
-![](resources/fieldwork2.jpg){fig-align="center" width="360"}
+::: {#fieldworkCarousel .carousel .slide .my-4 data-bs-ride="carousel" style="max-width: 600px; margin: 0 auto;"}
 
-![](resources/fieldwork.jpg){fig-align="center" width="536"}
+::: {.carousel-indicators}
+<button type="button" data-bs-target="#fieldworkCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+<button type="button" data-bs-target="#fieldworkCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+:::
+
+::: {.carousel-inner}
+::: {.carousel-item .active}
+<img src="resources/fieldwork2.jpg" class="d-block w-100" alt="Archaeological fieldwork" style="height: 400px; object-fit: contain;">
+:::
+
+::: {.carousel-item}
+<img src="resources/fieldwork.jpg" class="d-block w-100" alt="Excavation work" style="height: 400px; object-fit: contain;">
+:::
+:::
+
+<button class="carousel-control-prev" type="button" data-bs-target="#fieldworkCarousel" data-bs-slide="prev">
+<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+<span class="visually-hidden">Previous</span>
+</button>
+<button class="carousel-control-next" type="button" data-bs-target="#fieldworkCarousel" data-bs-slide="next">
+<span class="carousel-control-next-icon" aria-hidden="true"></span>
+<span class="visually-hidden">Next</span>
+</button>
+
+:::
 
 My education in archaeology and heritage management exposed me to critical theory and a greater understanding of the contemporary impacts of control over historic narratives and resources. This increased consciousness illuminated the ways in which my employer was being unethical in our work.
 
@@ -27,19 +51,3 @@ I left the field of archaeology seeking to have a greater impact on existing com
 In 2018, I went all in on urban planning at Virginia Commonwealth University. The program helped shape and develop my interest in housing and community development. After graduating in 2020 (during the pandemic), I landed a position with a consulting firm called HDAdvisors. For just over five years, I was exposed to Virginia's affordable housing industry and helped to elevate zoning education, increase capacity among partners to solve their housing challenges, and brought innovative ideas to Virginia leaders.
 
 ## Interests
-
--   
-
-## Skills
-
--   
-
-## Education
-
--   Master of Urban and Regional Planning, Virginia Commonwealth University - 2020
-
--   Graduate Certificate in Geographic Information Systems, Virginia Commonwealth University - 2018
-
--   Master of Art in Archaeology and Heritage Management, University of Leicester - 2017
-
--   Bachelor of Art in Art History, Christopher Newport University - 2012

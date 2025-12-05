@@ -13,7 +13,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: More About Me
       - href: resume.qmd
         text: Resume
       - href: cv.qmd
@@ -25,6 +25,5 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: cosmo  # or remove the theme line entirely
+    css: fix.css

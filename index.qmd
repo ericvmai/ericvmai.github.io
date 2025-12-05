@@ -1,13 +1,70 @@
----
-title: "Welcome"
----
+<div class="hero-profile-section">
+<div class="profile-container">
+<div class="profile-image-col">
+
+![Eric Mai](resources/eric.jpg){.profile-image}
+
+</div>
+<div class="profile-content-col">
 
 # [Eric Mai]{.gradient-text}
 
-![](resources/eric.jpg){width="400"}
+**Policy Leader & Researcher**  
+*Housing & Community Development*
 
-Policy leader and researcher with proven track record securing \$1M+ in grant funding, launching statewide data initiatives, and driving 20%+ annual revenue growth. Expertise combining data-driven research with strategic leadership to advance affordable housing solutions across Virginia. Skilled at building cross-sector partnerships, managing complex stakeholder relationships, and translating technical analysis into actionable policy. Previous career in archaeological research and cultural resource management from 2012 to 2018.
+I'm an experienced nonprofit leader with a background in history, urban planning, and community revitalization. For over five years, I have helped to increase knowledge and data accessibility around affordable housing, led growth and modernization at a policy and research nonprofit, and built relationships with non-traditional partners outside the housing industry.
 
-## About Me
+I have a strong foundation in qualitative and quantitative data analysis and research design. More than anything, I believe in breaking down the barriers that prevent us from understanding complex topics by focusing heavily on data visualization, accessible language, and meeting people where they are. 
+
+I enjoy not just thinking about the work, but also *how* the work is done. Whether exploring ways to making work more efficient or creating systems that increase accountability and transparency, I believe that structure can lead to more flexibility and room for creativity.
+
+</div>
+</div>
+</div>
+
+<div class="section-container">
+<div class="section-header-col">
+
+## Highlights
+
+</div>
+<div class="section-content-col">
+
+- **$1M+ in Grant Funding** secured for affordable housing initiatives across Virginia
+- **20%+ Annual Nonprofit Revenue Growth** driven through strategic data analytics and policy implementation
+- **Organizational Modernization** implemented through Generally Accepted Accounting Principles (GAAP), systems and protocols development, and technological advancement
+- **Statewide Data Initiatives** launched to improve understanding of housing affordability and solutions
+- **Cross-Sector Partnerships** built with government, non-profit, and private organizations
+- **Policy Translation** expertise in converting complex analysis into actionable recommendations
+
+</div>
+</div>
+
+<div class="section-container">
+<div class="section-header-col">
+
+## Selected Works
+
+</div>
+<div class="section-content-col">
+
+- **Virginia Zoning Atlas** (2025)  
+*Initiative Lead and Founder*  
+An interactive web map that compiles and analyzes Virginia zoning ordinances for their impact on housing.
+
+- **Faith-Based Property Ownership in Virginia** (2025)  
+*Principal Investigator*  
+Comprehensive statewide analysis, quantifying the potential impact of statewide "Faith in Housing" legislation.
+
+- **Middle-Income Housing Programs: A National Scan** (2025)  
+*Principal Investigator*  
+Research conducted to understand the breadth of statewide middle-income housing programs and initiatives.
+
+- **House Bill 854** (2020-2022)  
+*Co-Author*  
+Statewide study on affordable housing and statewide programs commissioned by the Virginia General Assembly.
+
+</div>
+</div>
 
 

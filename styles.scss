@@ -1,0 +1,489 @@
+// ===== QUARTO-SPECIFIC FIXES FOR COSMO THEME =====
+// This targets the exact HTML structure Quarto generates
+
+// ===== VARIABLES (keep your existing) =====
+$primary-dark-blue: #2B3949;
+$secondary-navy: #3F5877;
+$accent-forest: #4C7C71;
+$accent-coral: #e76f52;
+$sand: #F6F5F3;
+$text-muted: #666;
+
+$font-sans: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+
+// ===== GOOGLE FONTS =====
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+
+// ===== PROFILE SECTION FIX =====
+// Target the actual HTML structure Quarto creates
+.hero-profile-section {
+  padding: 4rem 2rem 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  
+  .profile-container {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: flex-start !important;
+    gap: 4rem !important;
+    
+    // The image column
+    .profile-image-col {
+      flex: 0 0 300px !important;
+      
+      // Remove figure margins that Quarto adds
+      .quarto-figure {
+        margin: 0 !important;
+      }
+      
+      figure {
+        margin: 0 !important;
+      }
+      
+      figcaption {
+        display: none; // Hide the caption since you have the name as h1
+      }
+      
+      @media (max-width: 991px) {
+        flex: 0 0 250px !important;
+      }
+      
+      @media (max-width: 767px) {
+        flex: 0 0 auto !important;
+        width: 100%;
+        text-align: center;
+        
+        .quarto-figure {
+          text-align: center;
+        }
+      }
+    }
+    
+    // The content column - now it's a section.level1
+    section.level1.profile-content-col,
+    .profile-content-col {
+      flex: 1 !important;
+      min-width: 0 !important;
+      
+      h1 {
+        font-size: 3.5rem !important;
+        margin-bottom: 0.5rem !important;
+        color: $primary-dark-blue;
+        
+        @media (max-width: 991px) {
+          font-size: 3rem !important;
+        }
+        
+        @media (max-width: 767px) {
+          font-size: 2.5rem !important;
+          text-align: center;
+        }
+      }
+    }
+    
+    @media (max-width: 767px) {
+      flex-direction: column !important;
+      align-items: center !important;
+      gap: 2rem !important;
+    }
+  }
+}
+
+// Profile image styling
+.profile-image {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid $primary-dark-blue;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  display: block;
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 48px rgba(0, 0, 0, 0.15);
+  }
+  
+  @media (max-width: 991px) {
+    max-width: 250px;
+  }
+  
+  @media (max-width: 767px) {
+    max-width: 200px;
+    margin: 0 auto;
+  }
+}
+
+// ===== SECTION LAYOUT FIX =====
+// Target Quarto's section structure
+.section-container {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  gap: 4rem !important;
+  max-width: 1200px;
+  margin: 0 auto 4rem;
+  padding: 0 2rem;
+  
+  // The header - now it's a section.level2
+  section.level2.section-header-col,
+  .section-header-col {
+    flex: 0 0 250px !important;
+    
+    h2 {
+      font-size: 2rem !important;
+      font-weight: 600 !important;
+      color: $primary-dark-blue !important;
+      margin: 0 !important;
+      padding-top: 0.125rem; // Align with content baseline
+      
+      // Remove the anchor padding Quarto adds
+      &.anchored {
+        padding-top: 0.125rem !important;
+      }
+      
+      @media (max-width: 991px) {
+        font-size: 1.75rem !important;
+      }
+      
+      @media (max-width: 767px) {
+        font-size: 1.5rem !important;
+        padding-top: 0;
+      }
+    }
+    
+    @media (max-width: 991px) {
+      flex: 0 0 200px !important;
+    }
+    
+    @media (max-width: 767px) {
+      flex: 0 0 100% !important;
+      margin-bottom: 1rem;
+    }
+  }
+  
+  // The content column
+  .section-content-col {
+    flex: 1 !important;
+    min-width: 0 !important;
+    
+    ul {
+      list-style: none !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      
+      li {
+        position: relative;
+        padding-left: 1.75rem !important;
+        margin-bottom: 1rem;
+        font-size: 1.0625rem;
+        line-height: 1.6;
+        color: $text-muted;
+        
+        &::before {
+          content: "▸";
+          position: absolute;
+          left: 0;
+          color: $accent-coral;
+          font-size: 1rem;
+          line-height: inherit;
+        }
+        
+        strong {
+          color: $primary-dark-blue;
+          font-weight: 600;
+        }
+      }
+    }
+    
+    // Work entries styling
+    > p {
+      margin-bottom: 2rem;
+      
+      &:last-child {
+        margin-bottom: 0;
+      }
+      
+      strong {
+        display: block;
+        font-size: 1.125rem;
+        color: $primary-dark-blue;
+        margin-bottom: 0.25rem;
+        font-weight: 600;
+      }
+      
+      em {
+        display: block;
+        font-size: 0.95rem;
+        color: $secondary-navy;
+        font-style: italic;
+        margin-bottom: 0.5rem;
+      }
+    }
+  }
+  
+  @media (max-width: 767px) {
+    flex-direction: column !important;
+    gap: 1rem !important;
+    padding: 0 1rem;
+  }
+}
+
+// ===== GRADIENT TEXT =====
+@keyframes gradient-animation {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+.gradient-text {
+  background: linear-gradient(
+    90deg,
+    $accent-forest 0%,
+    $primary-dark-blue 25%,
+    $secondary-navy 50%,
+    $accent-coral 75%,
+    $accent-forest 100%
+  );
+  background-size: 300% 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradient-animation 4s ease-in-out infinite;
+  display: inline-block;
+}
+
+// ===== TYPOGRAPHY ENHANCEMENTS =====
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-sans;
+  color: $primary-dark-blue;
+}
+
+p {
+  line-height: 1.7;
+  
+  strong {
+    color: $primary-dark-blue;
+    font-weight: 600;
+  }
+  
+  em {
+    color: $secondary-navy;
+  }
+}
+
+// Style the title/role under name
+.profile-content-col {
+  > p:first-of-type {
+    strong {
+      display: block;
+      font-size: 1.5rem;
+      color: $primary-dark-blue;
+      margin-bottom: 0.25rem;
+      
+      @media (max-width: 767px) {
+        text-align: center;
+        font-size: 1.25rem;
+      }
+    }
+    
+    em {
+      display: block;
+      font-size: 1.125rem;
+      color: $secondary-navy;
+      font-style: normal;
+      margin-bottom: 2rem;
+      
+      @media (max-width: 767px) {
+        text-align: center;
+        font-size: 1rem;
+      }
+    }
+  }
+  
+  p {
+    font-size: 1.0625rem;
+    color: $text-muted;
+  }
+}
+
+// ===== NAVBAR ENHANCEMENTS =====
+.navbar {
+  font-family: $font-sans;
+  
+  .navbar-brand {
+    color: $primary-dark-blue !important;
+    font-weight: 700;
+    
+    &:hover {
+      color: $accent-coral !important;
+    }
+  }
+  
+  .nav-link {
+    color: $primary-dark-blue !important;
+    
+    &:hover,
+    &.active {
+      color: $accent-coral !important;
+    }
+  }
+}
+
+// ===== LINKS =====
+main a:not(.btn):not(.nav-link):not(.navbar-brand) {
+  color: $primary-dark-blue;
+  
+  &:hover {
+    color: $accent-coral;
+  }
+
+  // ===== SIMPLE FIX FOR LAYOUT ISSUES =====
+// Add this to your existing styles.scss or create a new file
+
+// Force the profile container to use flexbox
+.hero-profile-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+  
+  .profile-container {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: flex-start !important;
+    gap: 3rem !important;
+    
+    // Force the image column to stay on the left
+    .profile-image-col {
+      flex: 0 0 250px !important;  // Fixed width of 250px
+      width: 250px !important;
+      
+      // Remove any figure/caption styling Quarto adds
+      figure {
+        margin: 0 !important;
+      }
+      
+      .quarto-figure {
+        margin: 0 !important;
+      }
+      
+      figcaption {
+        display: none !important;
+      }
+    }
+    
+    // The profile image itself - make it smaller
+    .profile-image {
+      width: 100% !important;
+      max-width: 250px !important;  // Maximum 250px wide
+      height: auto !important;
+      aspect-ratio: 1 !important;  // Keep it square
+      object-fit: cover !important;
+      border-radius: 50% !important;
+      border: 4px solid #2B3949 !important;
+      display: block !important;
+    }
+    
+    // The content column takes remaining space
+    .profile-content-col,
+    section.profile-content-col {
+      flex: 1 !important;
+      min-width: 0 !important;
+      
+      h1 {
+        margin-top: 0 !important;
+        font-size: 3rem !important;
+      }
+    }
+    
+    // Stack on mobile
+    @media (max-width: 768px) {
+      flex-direction: column !important;
+      align-items: center !important;
+      
+      .profile-image-col {
+        flex: unset !important;
+        width: 100% !important;
+        text-align: center !important;
+        margin-bottom: 2rem !important;
+      }
+      
+      .profile-image {
+        margin: 0 auto !important;
+        max-width: 200px !important;
+      }
+      
+      .profile-content-col h1 {
+        text-align: center !important;
+      }
+    }
+  }
+}
+
+// Force section containers to display side-by-side
+.section-container {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  gap: 3rem !important;
+  max-width: 1200px;
+  margin: 0 auto 3rem;
+  padding: 0 2rem;
+  
+  // Header column - fixed width on left
+  .section-header-col,
+  section.section-header-col {
+    flex: 0 0 200px !important;
+    width: 200px !important;
+    
+    h2 {
+      margin-top: 0 !important;
+      font-size: 1.75rem !important;
+    }
+  }
+  
+  // Content column - takes remaining space
+  .section-content-col {
+    flex: 1 !important;
+    min-width: 0 !important;
+  }
+  
+  // Stack on mobile
+  @media (max-width: 768px) {
+    flex-direction: column !important;
+    gap: 1rem !important;
+    
+    .section-header-col,
+    section.section-header-col {
+      flex: unset !important;
+      width: 100% !important;
+      margin-bottom: 0.5rem !important;
+    }
+  }
+}
+
+// Gradient text animation
+@keyframes gradient-animation {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+.gradient-text {
+  background: linear-gradient(
+    90deg,
+    #4C7C71 0%,
+    #2B3949 25%,
+    #3F5877 50%,
+    #e76f52 75%,
+    #4C7C71 100%
+  ) !important;
+  background-size: 300% 300% !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  animation: gradient-animation 4s ease-in-out infinite !important;
+  display: inline-block !important;
+}
+}
