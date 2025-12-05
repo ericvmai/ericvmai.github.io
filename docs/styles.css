@@ -3,8 +3,8 @@
 /* ===== CSS CUSTOM PROPERTIES (CSS VARIABLES) ===== */
 :root {
   /* Brand Colors - Adapted color scheme for personal use */
-  --primary-dark-blue: #1F262E;       /* CMYK: 33, 17, 0, 82 | RGB: 31, 38, 46 */
-  --secondary-navy: #2E4769;    /* CMYK: 56, 32, 0, 59 | RGB: 46, 71, 105 */
+  --primary-dark-blue: #2B3949       /* CMYK: 41, 22, 0, 71 | RGB: 43, 57, 73 */
+  --secondary-navy: #3F5877    /* CMYK: 47, 26, 0, 53 | RGB: 63, 88, 119 */
   --accent-forest: #4C7C71;      /* CMYK: 39, 0, 9, 51 | RGB: 76, 124, 133 */
   --accent-coral: #e76f52;       /* CMYK: 5, 70, 71, 0 | RGB: 231, 111, 82 */
   
