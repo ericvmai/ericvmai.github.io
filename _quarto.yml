@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Eric Mai"
+  site-url: "https://ericvmai.com"
+  repo-url: "https://github.com/ericvmai/ericvmai"
   navbar:
     left:
       - href: index.qmd

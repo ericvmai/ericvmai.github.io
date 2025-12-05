@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -128,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#eric-mai" id="toc-eric-mai" class="nav-link active" data-scroll-target="#eric-mai">Eric Mai</a>
+  <li><a href="#eric-mai" id="toc-eric-mai" class="nav-link active" data-scroll-target="#eric-mai"><span class="gradient-text">Eric Mai</span></a>
   <ul class="collapse">
   <li><a href="#about-me" id="toc-about-me" class="nav-link" data-scroll-target="#about-me">About Me</a></li>
   <li><a href="#quick-links" id="toc-quick-links" class="nav-link" data-scroll-target="#quick-links">Quick Links</a></li>
@@ -159,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <section id="eric-mai" class="level1">
-<h1>Eric Mai</h1>
+<h1><span class="gradient-text">Eric Mai</span></h1>
 <p>Welcome to my personal website!</p>
 <section id="about-me" class="level2">
 <h2 class="anchored" data-anchor-id="about-me">About Me</h2>
@@ -167,13 +167,45 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="quick-links" class="level2">
 <h2 class="anchored" data-anchor-id="quick-links">Quick Links</h2>
-<ul>
-<li><a href="./about.html">About Me</a> - Learn more about my background</li>
-<li><a href="./resume.html">Resume</a> - View my professional experience</li>
-<li><a href="./cv.html">CV</a> - Academic curriculum vitae</li>
-<li><a href="./portfolio.html">Portfolio</a> - Explore my projects and work</li>
-<li><a href="./contact.html">Contact</a> - Get in touch with me</li>
-</ul>
+<div class="row">
+<div class="col-md-6">
+<section id="about-me-1" class="level3 content-box">
+<h3 class="anchored" data-anchor-id="about-me-1">About Me</h3>
+<p>Learn more about my background, experience, and interests.</p>
+<p><a href="./about.html" class="btn btn-primary">Learn More</a></p>
+</section>
+</div>
+<div class="col-md-6">
+<section id="portfolio" class="level3 content-box">
+<h3 class="anchored" data-anchor-id="portfolio">Portfolio</h3>
+<p>Explore my projects, research, and creative work.</p>
+<p><a href="./portfolio.html" class="btn btn-secondary">View Portfolio</a></p>
+</section>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<section id="resume" class="level3 content-box">
+<h3 class="anchored" data-anchor-id="resume">Resume</h3>
+<p>Professional experience and qualifications.</p>
+<p><a href="./resume.html" class="btn btn-accent">View Resume</a></p>
+</section>
+</div>
+<div class="col-md-4">
+<section id="cv" class="level3 content-box">
+<h3 class="anchored" data-anchor-id="cv">CV</h3>
+<p>Academic curriculum vitae and publications.</p>
+<p><a href="./cv.html" class="btn btn-accent">View CV</a></p>
+</section>
+</div>
+<div class="col-md-4">
+<section id="contact" class="level3 content-box">
+<h3 class="anchored" data-anchor-id="contact">Contact</h3>
+<p>Get in touch for collaborations or opportunities.</p>
+<p><a href="./contact.html" class="btn btn-accent">Contact Me</a></p>
+</section>
+</div>
+</div>
 
 
 </section>
@@ -270,7 +302,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/ericvmai\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

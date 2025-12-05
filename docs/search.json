@@ -1,5 +1,75 @@
 [
   {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Welcome to my portfolio! Here you’ll find a selection of my projects and work."
+  },
+  {
+    "objectID": "portfolio.html#featured-projects",
+    "href": "portfolio.html#featured-projects",
+    "title": "Portfolio",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n[Project 1 Name]\n\n\n\nProject 1 Image\n\n\nDescription: [Brief description of the project - what it does, why it’s important]\nTechnologies Used: [R, Quarto, ggplot2, etc.]\nKey Features: - Feature 1 - Feature 2 - Feature 3\nLinks: GitHub | Live Demo | Documentation\n\n\n\n[Project 2 Name]\n\n\n\nProject 2 Image\n\n\nDescription: [Brief description of the project]\nTechnologies Used: [List technologies]\nKey Features: - Feature 1 - Feature 2 - Feature 3\nLinks: GitHub | Live Demo\n\n\n\n[Project 3 Name]\n\n\n\nProject 3 Image\n\n\nDescription: [Brief description of the project]\nTechnologies Used: [List technologies]\nKey Achievements: - Achievement 1 - Achievement 2 - Achievement 3\nLinks: GitHub | Publication"
+  },
+  {
+    "objectID": "portfolio.html#other-projects",
+    "href": "portfolio.html#other-projects",
+    "title": "Portfolio",
+    "section": "Other Projects",
+    "text": "Other Projects\n\n[Project Name]: [Brief description] - [Link]\n[Project Name]: [Brief description] - [Link]\n[Project Name]: [Brief description] - [Link]"
+  },
+  {
+    "objectID": "portfolio.html#data-visualizations",
+    "href": "portfolio.html#data-visualizations",
+    "title": "Portfolio",
+    "section": "Data Visualizations",
+    "text": "Data Visualizations\n[If you have data visualization work, showcase some examples here]"
+  },
+  {
+    "objectID": "portfolio.html#open-source-contributions",
+    "href": "portfolio.html#open-source-contributions",
+    "title": "Portfolio",
+    "section": "Open Source Contributions",
+    "text": "Open Source Contributions\n\n[Repository Name]: [Description of contribution]\n[Repository Name]: [Description of contribution]\n\n\nFor more projects, visit my GitHub profile"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "[Add information about your background, education, and career journey]"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "[Add information about your background, education, and career journey]"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\n[Share your professional interests, research areas, or hobbies]"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n[List your key skills and competencies]"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n[Add your educational background]"
+  },
+  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
@@ -47,27 +117,6 @@
     "title": "Resume",
     "section": "Awards & Recognition",
     "text": "Awards & Recognition\n\n[Award Name] - [Organization], [Year]"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Welcome to my personal website!\n\n\n[Add your introduction here - a brief paragraph about who you are, what you do, and your interests]\n\n\n\n\nAbout Me - Learn more about my background\nResume - View my professional experience\nCV - Academic curriculum vitae\nPortfolio - Explore my projects and work\nContact - Get in touch with me"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Welcome",
-    "section": "",
-    "text": "[Add your introduction here - a brief paragraph about who you are, what you do, and your interests]"
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Welcome",
-    "section": "",
-    "text": "About Me - Learn more about my background\nResume - View my professional experience\nCV - Academic curriculum vitae\nPortfolio - Explore my projects and work\nContact - Get in touch with me"
   },
   {
     "objectID": "contact.html",
@@ -119,39 +168,25 @@
     "text": "Response Time\nI typically respond to emails within 24-48 hours during business days.\n\nLooking forward to connecting with you!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
     "section": "",
-    "text": "[Add information about your background, education, and career journey]"
+    "text": "Welcome to my personal website!\n\n\n[Add your introduction here - a brief paragraph about who you are, what you do, and your interests]\n\n\n\n\n\n\n\nLearn more about my background, experience, and interests.\nLearn More\n\n\n\n\n\nExplore my projects, research, and creative work.\nView Portfolio\n\n\n\n\n\n\n\nProfessional experience and qualifications.\nView Resume\n\n\n\n\n\nAcademic curriculum vitae and publications.\nView CV\n\n\n\n\n\nGet in touch for collaborations or opportunities.\nContact Me"
   },
   {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "About Me",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome",
     "section": "",
-    "text": "[Add information about your background, education, and career journey]"
+    "text": "[Add your introduction here - a brief paragraph about who you are, what you do, and your interests]"
   },
   {
-    "objectID": "about.html#interests",
-    "href": "about.html#interests",
-    "title": "About Me",
-    "section": "Interests",
-    "text": "Interests\n[Share your professional interests, research areas, or hobbies]"
-  },
-  {
-    "objectID": "about.html#skills",
-    "href": "about.html#skills",
-    "title": "About Me",
-    "section": "Skills",
-    "text": "Skills\n[List your key skills and competencies]"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About Me",
-    "section": "Education",
-    "text": "Education\n[Add your educational background]"
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Welcome",
+    "section": "",
+    "text": "Learn more about my background, experience, and interests.\nLearn More\n\n\n\n\n\nExplore my projects, research, and creative work.\nView Portfolio\n\n\n\n\n\n\n\nProfessional experience and qualifications.\nView Resume\n\n\n\n\n\nAcademic curriculum vitae and publications.\nView CV\n\n\n\n\n\nGet in touch for collaborations or opportunities.\nContact Me"
   },
   {
     "objectID": "cv.html",
@@ -236,40 +271,5 @@
     "title": "Curriculum Vitae",
     "section": "References",
     "text": "References\nAvailable upon request."
-  },
-  {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portfolio",
-    "section": "",
-    "text": "Welcome to my portfolio! Here you’ll find a selection of my projects and work."
-  },
-  {
-    "objectID": "portfolio.html#featured-projects",
-    "href": "portfolio.html#featured-projects",
-    "title": "Portfolio",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\n[Project 1 Name]\n\n\n\nProject 1 Image\n\n\nDescription: [Brief description of the project - what it does, why it’s important]\nTechnologies Used: [R, Quarto, ggplot2, etc.]\nKey Features: - Feature 1 - Feature 2 - Feature 3\nLinks: GitHub | Live Demo | Documentation\n\n\n\n[Project 2 Name]\n\n\n\nProject 2 Image\n\n\nDescription: [Brief description of the project]\nTechnologies Used: [List technologies]\nKey Features: - Feature 1 - Feature 2 - Feature 3\nLinks: GitHub | Live Demo\n\n\n\n[Project 3 Name]\n\n\n\nProject 3 Image\n\n\nDescription: [Brief description of the project]\nTechnologies Used: [List technologies]\nKey Achievements: - Achievement 1 - Achievement 2 - Achievement 3\nLinks: GitHub | Publication"
-  },
-  {
-    "objectID": "portfolio.html#other-projects",
-    "href": "portfolio.html#other-projects",
-    "title": "Portfolio",
-    "section": "Other Projects",
-    "text": "Other Projects\n\n[Project Name]: [Brief description] - [Link]\n[Project Name]: [Brief description] - [Link]\n[Project Name]: [Brief description] - [Link]"
-  },
-  {
-    "objectID": "portfolio.html#data-visualizations",
-    "href": "portfolio.html#data-visualizations",
-    "title": "Portfolio",
-    "section": "Data Visualizations",
-    "text": "Data Visualizations\n[If you have data visualization work, showcase some examples here]"
-  },
-  {
-    "objectID": "portfolio.html#open-source-contributions",
-    "href": "portfolio.html#open-source-contributions",
-    "title": "Portfolio",
-    "section": "Open Source Contributions",
-    "text": "Open Source Contributions\n\n[Repository Name]: [Description of contribution]\n[Repository Name]: [Description of contribution]\n\n\nFor more projects, visit my GitHub profile"
   }
 ]
