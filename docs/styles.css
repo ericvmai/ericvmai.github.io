@@ -4,30 +4,30 @@
 /* ===== CSS CUSTOM PROPERTIES (CSS VARIABLES) ===== */
 :root {
   /* Brand Colors - Adapted color scheme for personal use */
-  --primary-blue: #445ca9;       /* CMYK: 83, 71, 0, 0 | RGB: 68, 92, 169 */
-  --secondary-green: #8baeaa;    /* CMYK: 48, 20, 33, 0 | RGB: 139, 174, 170 */
-  --accent-yellow: #e9ab3f;      /* CMYK: 8, 35, 87, 0 | RGB: 233, 171, 63 */
+  --primary-dark-blue: #1F262E;       /* CMYK: 33, 17, 0, 82 | RGB: 31, 38, 46 */
+  --secondary-navy: #2E4769;    /* CMYK: 56, 32, 0, 59 | RGB: 46, 71, 105 */
+  --accent-forest: #4C7C71;      /* CMYK: 39, 0, 9, 51 | RGB: 76, 124, 133 */
   --accent-coral: #e76f52;       /* CMYK: 5, 70, 71, 0 | RGB: 231, 111, 82 */
   
   /* Theme Colors */
-  --primary: var(--primary-blue);
-  --secondary: var(--secondary-green);
+  --primary: var(--primary-dark-blue);
+  --secondary: var(--secondary-navy);
   --sand: #F6F5F3;
-  --gold: var(--accent-yellow);
+  --gold: var(--accent-forest);
   
   /* Base Colors */
   --body-bg: white;
   --body-color: #333333;
   --navbar-bg: white;
-  --navbar-fg: var(--primary-blue);
+  --navbar-fg: var(--primary-dark-blue);
   
   /* Typography */
-  --font-sans: 'Lato', 'Corbel', sans-serif;
-  --font-serif: 'Roboto Slab', 'Georgia', serif;
+  --font-sans: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  --font-serif: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
 }
 
 /* ===== GOOGLE FONTS IMPORT ===== */
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;700&family=Lato:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
 
 /* ===== BASE TYPOGRAPHY ===== */
 body {
@@ -147,16 +147,16 @@ h4, .h4, h5, .h5, h6, .h6 {
 
 /* ===== BACKGROUND STYLES ===== */
 .blue-background {
-  background-color: var(--primary-blue);
+  background-color: var(--primary-dark-blue);
   color: white;
 }
 
 .green-background {
-  background-color: var(--secondary-green);
+  background-color: var(--secondary-navy);
 }
 
 .yellow-background {
-  background-color: var(--accent-yellow);
+  background-color: var(--accent-forest);
 }
 
 .coral-background {
@@ -228,13 +228,13 @@ h4, .h4, h5, .h5, h6, .h6 {
 .gradient-text {
   background: linear-gradient(
     45deg,
-    var(--accent-yellow),
-    var(--primary-blue),
-    var(--primary-blue),
-    var(--secondary-green),
+    var(--accent-forest),
+    var(--primary-dark-blue),
+    var(--primary-dark-blue),
+    var(--secondary-navy),
     var(--accent-coral),
-    var(--primary-blue),
-    var(--accent-yellow)
+    var(--primary-dark-blue),
+    var(--accent-forest)
   );
   background-size: 800%;
   -webkit-background-clip: text;
@@ -512,7 +512,7 @@ a:hover {
 
 /* ===== CUSTOM SECTION STYLES ===== */
 .hero-section {
-  background: linear-gradient(135deg, var(--primary) 0%, var(--secondary-green) 100%);
+  background: linear-gradient(135deg, var(--primary) 0%, var(--secondary-navy) 100%);
   color: white;
   padding: 4rem 2rem;
   margin-top: -1rem;
