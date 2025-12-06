@@ -1,0 +1,24 @@
+---
+title: "New Beginning"
+author: "Eric Mai"
+date: "2024-12-06"
+categories: [introduction]
+description: "An introduction to my blog"
+---
+
+Welcome to my blog! I'm excited to share my thoughts and insights, not just on housing policy, but other issues and areas of interest for me.
+
+## What to Expect
+
+This blog will feature:
+
+- **Housing Policy Analysis**: Deep dives into housing research, policy proposals, and data analysis
+- **Data Insights**: Visualizations and findings from various datasets
+- **Professional Updates**: Thoughts on my work and career journey
+- **Random Musings**: Anything else that catches my interest
+
+## Stay Connected
+
+Feel free to reach out through my [contact page](/contact.html) if you have any questions or topics you'd like me to explore.
+
+Thanks for reading!

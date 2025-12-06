@@ -18,6 +18,8 @@ website:
         text: Resume
       - href: portfolio.qmd
         text: Portfolio
+      - href: blog.qmd
+        text: Blog
       - href: contact.qmd
         text: Contact
 

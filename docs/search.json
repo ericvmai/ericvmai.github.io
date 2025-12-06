@@ -1,143 +1,10 @@
 [
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portfolio",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Welcome to my portfolio! Here you’ll find a selection of my projects and work."
-  },
-  {
-    "objectID": "portfolio.html#featured-projects",
-    "href": "portfolio.html#featured-projects",
-    "title": "Portfolio",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\nVirginia Zoning Atlas (2025)\n\nDescription: An interactive web map that compiles and analyzes local zoning ordinances in Virginia. Beginning as an independent web application focusing on the three major metropolitan regions of Virginia, the Virginia Zoning Atlas was later incorporated into the larger National Zoning Atlas project.\nTechnologies Used: R, Shiny, QGIS\nKey Contributions:\n\nFounded and led the development of the initial iteration of the Virginia Zoning Atlas\nSecured over $5 million in grant funding to complete the full Virginia Zoning Atlas\nPresented at multiple conferences and events in support of the atlas project\n\nLinks: Website\n\n\n\nMiddle Income Housing Programs: A National Scan (2025)\n\nDescription: Virginia Housing contracted with HousingForward Virginia to conduct a national scan of state-funded programs and initiatives serving households earning 80% to 120% area median income. This research provided Virginia Housing with valuable insights into state-level initiatives and high-production regions, informing future policy decisions and program implementations.\nKey Contributions:\n\nThe first comprehensive national scan of state-level programs addressing middle-income housing needs\nIdentified 58 programs across 34 states, including three programs in Virginia\nPrograms ranged from homebuyer assistance, developer financing, and even public enterprises\n\nLinks: Report | Spreadsheet\n\n\n\nFaith-Owned Property Ownership in Virginia (2024)\n\nDescription: The Virginia Center for Interfaith Public Policy commissioned Housing Forward Virginia to conduct a study quantifying the of land owned by faith-based organizations in Virginia. The report sought to support VICPP’s advocacy for Senate Bill 233, which aimed to grant religious organizations certain powers to overcome local zoning barriers for affordable housing development on their own land.\nTechnologies Used: R, QGIS\nKey Contributions:\n\nDetermined that out of the over 4 million parcels in Virginia, 22,453 were identified as likely owned by a faith-based organization - equating to 74,116 acres\nIdentified a clear need for standardized parcel records and quality assurance among local government data collection\nIdentified zoning as a major barrier to housing development on a majority of faith-owned parcels in Northern Virginia\n\nLinks: Report | Presentation | APA Presentation\n\n\n\nHouse Bill 854 Statewide Housing Study (2022)\n\n\n\n\n\nDescription: A report commissioned by the Virginia General Assembly to investigate housing needs across the Commonwealth and makes recommendations to state housing agencies, the General Assembly, and Governor’s Office for improving housing affordability and opportunity for all Virginians.\nTechnologies Used: Bookdown, Tableau\nKey Contributions:\n\nInvestigated state-funded rental assistance program feasibility\nExplored the overall affordable housing supply need in Virginia and across its various market regions\nEvaluated the effectiveness of state-run affordable housing programs\n\nLinks: Report\n\n\n\nHousingX 2022\n\nDescription: HousingX is an unconventional conference held by HousingForward Virginia that brings housing innovators within Virginia and across the nation together to explore new and emerging ideas to solve our housing crisis. The second HousingX conference was held in May 2022 in Newport News and brought over 200 individuals together.\nKey Contributions:\n\nServed as the main content planner, bringing Curtis Moody, FAIA, NOMAC (Moody Nolan), Anna Mackay (Sister City), Theo Henderson (We the UnHoused), and Zachary Mannheimer (Alquist 3D) as keynote speakers\n\nLinks: Website"
-  },
-  {
-    "objectID": "portfolio.html#other-projects",
-    "href": "portfolio.html#other-projects",
-    "title": "Portfolio",
-    "section": "Other Projects",
-    "text": "Other Projects\n\nConnecting Housing and Health in the Potomac Health Foundation Service Area (2021): Study commissioned by Potomac Health Foundation to explore the interconnection between housing affordability and health outcomes in Prince William County, Stafford County, and Fairfax County. Report [PDF]\nState of the Market and Local Policy: Accessory Dwelling Units in the Commonwealth of Virginia (2021): Findings of a data and information gathering exercise to provide the Accessory Dwelling Unit Stakeholder Advisory Group (SAG) and the Virginia Department of Housing and Community Development (DHCD) input on key issues related to accessory dwelling units (ADUs) in the Commonwealth of Virginia. The work performed in this analysis and the SAG was implemented pursuant to House Bill 2053. Report [PDF]\nGeorge Washington Region Commission: Housing Affordability Study and Action Plan (2020): Study commissioned by the George Washington Regional Commission to study housing affordability in the Fredericksburg, VA region and provide policy recommendations to address housing challenges. Report [PDF]"
-  },
-  {
-    "objectID": "portfolio.html#data-visualizations",
-    "href": "portfolio.html#data-visualizations",
-    "title": "Portfolio",
-    "section": "Data Visualizations",
-    "text": "Data Visualizations\n\nVirginia Zoning Atlas\nThe initial iteration of the Virginia Zoning Atlas was built in partnership with Kyle Walker and utilizes the R programming language and Shiny to deliver a fast and responsive web map.\n\n\n\n\nVirginia Housing Choice Voucher Dashboard\nThis data dashboard was created to support the Virginia Housing Alliance and their advocacy for the 5,000 Families Pilot Program, a state-funded rental housing assistance program to support low-income households with school-aged children.\n\n\n\n\nADU Playbook\nWith increased attention on accessory dwelling units (ADU), this data dashboard and exploration was conducted to understand the range of ADU ordinances across Virginia. This compilation was a point-in-time analysis of how local governments regulate and restrict ADUs.\n\n\n\nFor more projects, visit my GitHub profile"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Touring with bands. Digging up history. Leading policy and developing affordable housing. The path to where I am now has been long and winding with lots of detours. But my diverse experiences have given me a unique perspective and skills to address any problem with passion and determination.\nGrowing up in Newport News, Virginia, I had early dreams of being a photographer for touring bands, documenting their lifestyle and going along for the ride. By taking risks, I was able to go on two national tours to see the United States.\n\n\n\n\n\nWhile I had many opportunities to grow in the music industry, I felt a pull towards expanding my knowledge and professional opportunities. After a break from undergrad, I went back with a drive and passion for history. I finished my bachelor’s degree in art history after spending a month in the Middle East doing archaeology.\n\n\n\n\n\nUpon graduation in 2012, I ended up at a cultural resources management firm doing archaeology across the Mid-Atlantic. Digging up layers of history throughout Virginia exposed me to Virginia’s expansive geography and culture. I was all in on archaeology at the time and decided to pursue a master’s degree in archaeology while working in the field.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Previous\n\n\n Next\n\n\nMy education in archaeology and heritage management exposed me to critical theory and a greater understanding of the contemporary impacts of control over historic narratives and resources. This increased consciousness illuminated the ways in which my employer was being unethical in our work.\nI left the field of archaeology seeking to have a greater impact on existing communities and to bring a historic perspective to current development. Of all things, I decided to make a big pivot and go back to school to get another master’s degree.\nIn 2018, I went all in on urban planning at Virginia Commonwealth University. The program helped shape and develop my interest in housing and community development. After graduating in 2020 (during the pandemic), I landed a position with a consulting firm called HDAdvisors. For just over five years, I was exposed to Virginia’s affordable housing industry and helped to elevate zoning education, increase capacity among partners to solve their housing challenges, and brought innovative ideas to Virginia leaders."
-  },
-  {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "About Me",
-    "section": "",
-    "text": "Touring with bands. Digging up history. Leading policy and developing affordable housing. The path to where I am now has been long and winding with lots of detours. But my diverse experiences have given me a unique perspective and skills to address any problem with passion and determination.\nGrowing up in Newport News, Virginia, I had early dreams of being a photographer for touring bands, documenting their lifestyle and going along for the ride. By taking risks, I was able to go on two national tours to see the United States.\n\n\n\n\n\nWhile I had many opportunities to grow in the music industry, I felt a pull towards expanding my knowledge and professional opportunities. After a break from undergrad, I went back with a drive and passion for history. I finished my bachelor’s degree in art history after spending a month in the Middle East doing archaeology.\n\n\n\n\n\nUpon graduation in 2012, I ended up at a cultural resources management firm doing archaeology across the Mid-Atlantic. Digging up layers of history throughout Virginia exposed me to Virginia’s expansive geography and culture. I was all in on archaeology at the time and decided to pursue a master’s degree in archaeology while working in the field.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Previous\n\n\n Next\n\n\nMy education in archaeology and heritage management exposed me to critical theory and a greater understanding of the contemporary impacts of control over historic narratives and resources. This increased consciousness illuminated the ways in which my employer was being unethical in our work.\nI left the field of archaeology seeking to have a greater impact on existing communities and to bring a historic perspective to current development. Of all things, I decided to make a big pivot and go back to school to get another master’s degree.\nIn 2018, I went all in on urban planning at Virginia Commonwealth University. The program helped shape and develop my interest in housing and community development. After graduating in 2020 (during the pandemic), I landed a position with a consulting firm called HDAdvisors. For just over five years, I was exposed to Virginia’s affordable housing industry and helped to elevate zoning education, increase capacity among partners to solve their housing challenges, and brought innovative ideas to Virginia leaders."
-  },
-  {
-    "objectID": "about.html#personal",
-    "href": "about.html#personal",
-    "title": "About Me",
-    "section": "Personal",
-    "text": "Personal\nI currently live in Richmond, Virginia with my wife, Rebecca, our two children, Miles and Margot, and our two dogs, Juniper and Pickle. We love spending our time walking or biking through our neighborhood and enjoying the trails along the James River.\nIn my (limited) free time, I love reading fantasy and science fiction books. Some favorites are:\n\nBetween Two Fires by Christopher Buehlman\nThe Way of Kings by Brandon Sanderson\nVarious Philip K. Dick stories and books\nThe Witcher Series by Andrzej Sapkowski\n\nAnd I love watching movies and learning about how they are made and the stories behind the industry. Here are some of my favorite movies and media to consume about movies:\n\nThe Big Picture Podcast\nBlank Check with Griffin & David\nIndiana Jones and the Last Crusade(1989)\nBefore Sunrise(1995)\nThe Truman Show(1998)\nNational Treasure(2004)\nSicario(2015)\n\nCheck out my Letterboxd profile to see what I’m watching:\nMy Letterboxd Profile"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "Policy leader and researcher with proven track record securing $1M+ in grant funding, launching statewide data initiatives, and driving 20%+ annual revenue growth. Expertise combining data-driven research with strategic leadership to advance affordable housing solutions across Virginia.\nSkilled at building cross-sector partnerships, managing complex stakeholder relationships, and translating technical analysis into actionable policy. Previous career in archaeological research and cultural resource management from 2012 to 2018."
-  },
-  {
-    "objectID": "resume.html#professional-summary",
-    "href": "resume.html#professional-summary",
-    "title": "Resume",
-    "section": "",
-    "text": "Policy leader and researcher with proven track record securing $1M+ in grant funding, launching statewide data initiatives, and driving 20%+ annual revenue growth. Expertise combining data-driven research with strategic leadership to advance affordable housing solutions across Virginia.\nSkilled at building cross-sector partnerships, managing complex stakeholder relationships, and translating technical analysis into actionable policy. Previous career in archaeological research and cultural resource management from 2012 to 2018."
-  },
-  {
-    "objectID": "resume.html#work-experience",
-    "href": "resume.html#work-experience",
-    "title": "Resume",
-    "section": "Work Experience",
-    "text": "Work Experience\n\nVice President\nHDAdvisors | Richmond, Virginia January 2024 - January 2026\n\nDrive business development and strategic direction as equity partner, expanding client portfolio across nonprofit and government sectors\nLead consulting engagements for affordable housing development and organizational strategy; provide real estate finance consulting for low-capacity non-profit organizations\nProvide fractional executive leadership to nonprofit clients, serving concurrently as:\n\nExecutive Director for Strategy & Sustainability, HousingForward Virginia: Secured $1M in grant funding, grew revenue 20%+ annually, developed organization’s first fiscal controls policy, implemented GAAP, led first strategic planning process, manageD 6,000+ subscriber newsletter, managed diverse board of 15+ housing leaders across public/private sectors\n\n\n\n\nSenior Associate\nHDAdvisors | Richmond, Virginia March 2020 - December 2023\n\nCo-authored HB854 Virginia Statewide Housing Needs Assessment commissioned by Virginia General Assembly, influencing state housing policy\nLed housing needs assessments for 5+ localities\nPlanned and executed HousingX 2022, an affordable housing innovation conference bringing together 200+ affordable housing innovators and practitioners\nProvided fractional leadership to nonprofit clients, serving concurrently as:\n\nDirector of Real Estate, Maggie Walker Community Land Trust: Oversaw 30+ unit affordable homeownership pipeline, expanded developer partnerships for land acquisition, manage government and partner relationships\n\n\n\n\nResearch Assistant\nVCU Survey and Evaluation Research Lab | Richmond, Virginia May 2018 - March 2020\n\nCo-authored Virginia Department of Health report establishing framework for Overdose Fatality Review Team\nEvaluated diversity and inclusion program effectiveness in higher education\nMaintained complex database supporting statewide Judicial Performance Evaluation program\n\n\n\nField Archaeologist\nCirca~ Cultural Resources Management | Williamsburg, Virginia January 2012 - May 2018\n\nWhistleblower to protect the Monacan Nation’s historic capital, Rassawek\nExcavated over 30 sites across the Mid-Atlantic, ranging from pre-historic to late 19th century"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Resume",
-    "section": "Education",
-    "text": "Education\n\nMaster of Urban and Regional Planning\nVirginia Commonwealth University | Richmond, Virginia 2020\n\nMajor: Urban and Regional Planning\nGraduate Certificate: Geographic Information Systems (GIS)\nJohn Marlles Scholarship recipient\n\n\n\nMaster of Art\nUniversity of Leicester | Leicestershire, UK 2017\n\nMajor: Archaeology and Heritage Management\nMark Pluciennik MA Dissertation Prize recipient\n\n\n\nBachelor of Art\nChristopher Newport University | Newport News, Virginia 2011\n\nMajor: Art History\nMinor: Studio"
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Resume",
-    "section": "Skills",
-    "text": "Skills\n\nTechnical Skills:\n\nGrant writing and fund development ($1M+ secured)\nNonprofit accounting\nProgram evaluation and impact assessment\nBudget management and financial oversight\nStakeholder engagement and facilitation\nCompliance and reporting\nReal estate finance and development\n• Strategic planning and implementation\nPolicy research and white paper development\nData visualization and dashboard development\nPublic speaking and presentations\nSocial media strategy and content management\nWordPress and web application development\nOrganizational management and board governance\n\n\n\n\n\nTools & Software:\n\nAdobe Creative Suite\nArcGIS\nCanva\nLLM (Claude, ChatGPT, Gemini)\nMicrosoft Power BI\nPositron\nQGIS\nRDS\nRStudio\nS3\nSalesforce\nShiny\nSQL fundamentals\nTableau\n\n\n\n\n\nLanguages:\n\nR\nHTML\n\n\n\n\nBoard Leadership and Advisory Roles\n\nCity of Richmond Zoning Advisory Council | June 2024 - Present\nCommonwealth Catholic Charities Housing Corporation Board | January 2025 - Present\nRVA CDC Board | June 2024 - Present\nVirginia Housing Supportive Housing Solution Advisory Council | January 2024 - Present\nproject:HOMES Community Engagement Board | January 2020 - May 2023\nCouncil of Virginia Archaeologists | January 2020 - January 2023"
-  },
-  {
-    "objectID": "resume.html#board-leadership-and-advisory-roles",
-    "href": "resume.html#board-leadership-and-advisory-roles",
-    "title": "Resume",
-    "section": "Board Leadership and Advisory Roles",
-    "text": "Board Leadership and Advisory Roles\n\nCity of Richmond Zoning Advisory Council | June 2024 - Present\nCommonwealth Catholic Charities Housing Corporation Board | January 2025 - Present\nRVA CDC Board | June 2024 - Present\nVirginia Housing Supportive Housing Solution Advisory Council | January 2024 - Present\nproject:HOMES Community Engagement Board | January 2020 - May 2023\nCouncil of Virginia Archaeologists | January 2020 - January 2023"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Get in Touch",
-    "section": "",
-    "text": "I’d love to hear from you! Feel free to reach out through any of the following channels or use the contact form."
-  },
-  {
-    "objectID": "contact.html#contact-information",
-    "href": "contact.html#contact-information",
-    "title": "Get in Touch",
-    "section": "Contact Information",
-    "text": "Contact Information\n\nLinkedIn: linkedin.com/in/ericvmai\nGitHub: github.com/ericvmai"
-  },
-  {
-    "objectID": "contact.html#contact-form",
-    "href": "contact.html#contact-form",
-    "title": "Get in Touch",
-    "section": "Contact Form",
-    "text": "Contact Form\n\n  \n  \n  \n    Name\n    \n  \n  \n  \n    Email\n    \n  \n  \n  \n    Message\n    \n  \n  \n  \n    Send Message"
-  },
-  {
-    "objectID": "contact.html#response-time",
-    "href": "contact.html#response-time",
-    "title": "Get in Touch",
-    "section": "Response Time",
-    "text": "Response Time\nI typically respond to emails within 24-48 hours during business days.\n\nLooking forward to connecting with you!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Eric Mai",
-    "section": "",
-    "text": "Eric Mai\n\n\n\n\n\nPolicy Leader & Researcher\nHousing & Community Development\nI’m an experienced nonprofit leader with a background in history, urban planning, and community revitalization. For over five years, I have helped to increase knowledge and data accessibility around affordable housing, led growth and modernization at a policy and research nonprofit, and built relationships with non-traditional partners outside the housing industry.\nI have a strong foundation in qualitative and quantitative data analysis and research design. More than anything, I believe in breaking down the barriers that prevent us from understanding complex topics by focusing heavily on data visualization, accessible language, and meeting people where they are.\nI enjoy not just thinking about the work, but also how the work is done. Whether exploring ways to making work more efficient or creating systems that increase accountability and transparency, I believe that structure can lead to more flexibility and room for creativity."
-  },
-  {
-    "objectID": "index.html#highlights",
-    "href": "index.html#highlights",
-    "title": "Eric Mai",
-    "section": "Highlights",
-    "text": "Highlights"
-  },
-  {
-    "objectID": "index.html#selected-works",
-    "href": "index.html#selected-works",
-    "title": "Eric Mai",
-    "section": "Selected Works",
-    "text": "Selected Works"
+    "text": "Welcome to my blog! Here I share thoughts on housing policy, data analysis, and other topics that interest me.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Beginning\n\n\n\nintroduction\n\n\n\nAn introduction to my blog\n\n\n\n\n\nDec 6, 2024\n\n\nEric Mai\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -222,5 +89,166 @@
     "title": "Curriculum Vitae",
     "section": "References",
     "text": "References\nAvailable upon request."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Eric Mai",
+    "section": "",
+    "text": "Eric Mai\n\n\n\n\n\nPolicy Leader & Researcher\nHousing & Community Development\nI’m an experienced nonprofit leader with a background in history, urban planning, and community revitalization. For over five years, I have helped to increase knowledge and data accessibility around affordable housing, led growth and modernization at a policy and research nonprofit, and built relationships with non-traditional partners outside the housing industry.\nI have a strong foundation in qualitative and quantitative data analysis and research design. More than anything, I believe in breaking down the barriers that prevent us from understanding complex topics by focusing heavily on data visualization, accessible language, and meeting people where they are.\nI enjoy not just thinking about the work, but also how the work is done. Whether exploring ways to making work more efficient or creating systems that increase accountability and transparency, I believe that structure can lead to more flexibility and room for creativity."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Eric Mai",
+    "section": "Highlights",
+    "text": "Highlights"
+  },
+  {
+    "objectID": "index.html#selected-works",
+    "href": "index.html#selected-works",
+    "title": "Eric Mai",
+    "section": "Selected Works",
+    "text": "Selected Works"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Policy leader and researcher with proven track record securing $1M+ in grant funding, launching statewide data initiatives, and driving 20%+ annual revenue growth. Expertise combining data-driven research with strategic leadership to advance affordable housing solutions across Virginia.\nSkilled at building cross-sector partnerships, managing complex stakeholder relationships, and translating technical analysis into actionable policy. Previous career in archaeological research and cultural resource management from 2012 to 2018."
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Resume",
+    "section": "",
+    "text": "Policy leader and researcher with proven track record securing $1M+ in grant funding, launching statewide data initiatives, and driving 20%+ annual revenue growth. Expertise combining data-driven research with strategic leadership to advance affordable housing solutions across Virginia.\nSkilled at building cross-sector partnerships, managing complex stakeholder relationships, and translating technical analysis into actionable policy. Previous career in archaeological research and cultural resource management from 2012 to 2018."
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Resume",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nVice President\nHDAdvisors | Richmond, Virginia January 2024 - January 2026\n\nDrive business development and strategic direction as equity partner, expanding client portfolio across nonprofit and government sectors\nLead consulting engagements for affordable housing development and organizational strategy; provide real estate finance consulting for low-capacity non-profit organizations\nProvide fractional executive leadership to nonprofit clients, serving concurrently as:\n\nExecutive Director for Strategy & Sustainability, HousingForward Virginia: Secured $1M in grant funding, grew revenue 20%+ annually, developed organization’s first fiscal controls policy, implemented GAAP, led first strategic planning process, manageD 6,000+ subscriber newsletter, managed diverse board of 15+ housing leaders across public/private sectors\n\n\n\n\nSenior Associate\nHDAdvisors | Richmond, Virginia March 2020 - December 2023\n\nCo-authored HB854 Virginia Statewide Housing Needs Assessment commissioned by Virginia General Assembly, influencing state housing policy\nLed housing needs assessments for 5+ localities\nPlanned and executed HousingX 2022, an affordable housing innovation conference bringing together 200+ affordable housing innovators and practitioners\nProvided fractional leadership to nonprofit clients, serving concurrently as:\n\nDirector of Real Estate, Maggie Walker Community Land Trust: Oversaw 30+ unit affordable homeownership pipeline, expanded developer partnerships for land acquisition, manage government and partner relationships\n\n\n\n\nResearch Assistant\nVCU Survey and Evaluation Research Lab | Richmond, Virginia May 2018 - March 2020\n\nCo-authored Virginia Department of Health report establishing framework for Overdose Fatality Review Team\nEvaluated diversity and inclusion program effectiveness in higher education\nMaintained complex database supporting statewide Judicial Performance Evaluation program\n\n\n\nField Archaeologist\nCirca~ Cultural Resources Management | Williamsburg, Virginia January 2012 - May 2018\n\nWhistleblower to protect the Monacan Nation’s historic capital, Rassawek\nExcavated over 30 sites across the Mid-Atlantic, ranging from pre-historic to late 19th century"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\nMaster of Urban and Regional Planning\nVirginia Commonwealth University | Richmond, Virginia 2020\n\nMajor: Urban and Regional Planning\nGraduate Certificate: Geographic Information Systems (GIS)\nJohn Marlles Scholarship recipient\n\n\n\nMaster of Art\nUniversity of Leicester | Leicestershire, UK 2017\n\nMajor: Archaeology and Heritage Management\nMark Pluciennik MA Dissertation Prize recipient\n\n\n\nBachelor of Art\nChristopher Newport University | Newport News, Virginia 2011\n\nMajor: Art History\nMinor: Studio"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\n\nTechnical Skills:\n\nGrant writing and fund development ($1M+ secured)\nNonprofit accounting\nProgram evaluation and impact assessment\nBudget management and financial oversight\nStakeholder engagement and facilitation\nCompliance and reporting\nReal estate finance and development\n• Strategic planning and implementation\nPolicy research and white paper development\nData visualization and dashboard development\nPublic speaking and presentations\nSocial media strategy and content management\nWordPress and web application development\nOrganizational management and board governance\n\n\n\n\n\nTools & Software:\n\nAdobe Creative Suite\nArcGIS\nCanva\nLLM (Claude, ChatGPT, Gemini)\nMicrosoft Power BI\nPositron\nQGIS\nRDS\nRStudio\nS3\nSalesforce\nShiny\nSQL fundamentals\nTableau\n\n\n\n\n\nLanguages:\n\nR\nHTML\n\n\n\n\nBoard Leadership and Advisory Roles\n\nCity of Richmond Zoning Advisory Council | June 2024 - Present\nCommonwealth Catholic Charities Housing Corporation Board | January 2025 - Present\nRVA CDC Board | June 2024 - Present\nVirginia Housing Supportive Housing Solution Advisory Council | January 2024 - Present\nproject:HOMES Community Engagement Board | January 2020 - May 2023\nCouncil of Virginia Archaeologists | January 2020 - January 2023"
+  },
+  {
+    "objectID": "resume.html#board-leadership-and-advisory-roles",
+    "href": "resume.html#board-leadership-and-advisory-roles",
+    "title": "Resume",
+    "section": "Board Leadership and Advisory Roles",
+    "text": "Board Leadership and Advisory Roles\n\nCity of Richmond Zoning Advisory Council | June 2024 - Present\nCommonwealth Catholic Charities Housing Corporation Board | January 2025 - Present\nRVA CDC Board | June 2024 - Present\nVirginia Housing Supportive Housing Solution Advisory Council | January 2024 - Present\nproject:HOMES Community Engagement Board | January 2020 - May 2023\nCouncil of Virginia Archaeologists | January 2020 - January 2023"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in Touch",
+    "section": "",
+    "text": "I’d love to hear from you! Feel free to reach out through any of the following channels or use the contact form."
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Get in Touch",
+    "section": "Contact Information",
+    "text": "Contact Information\n\nLinkedIn: linkedin.com/in/ericvmai\nGitHub: github.com/ericvmai"
+  },
+  {
+    "objectID": "contact.html#contact-form",
+    "href": "contact.html#contact-form",
+    "title": "Get in Touch",
+    "section": "Contact Form",
+    "text": "Contact Form\n\n  \n  \n  \n    Name\n    \n  \n  \n  \n    Email\n    \n  \n  \n  \n    Message\n    \n  \n  \n  \n    Send Message"
+  },
+  {
+    "objectID": "contact.html#response-time",
+    "href": "contact.html#response-time",
+    "title": "Get in Touch",
+    "section": "Response Time",
+    "text": "Response Time\nI typically respond to emails within 24-48 hours during business days.\n\nLooking forward to connecting with you!"
+  },
+  {
+    "objectID": "posts/2025-12-06-welcome/index.html",
+    "href": "posts/2025-12-06-welcome/index.html",
+    "title": "New Beginning",
+    "section": "",
+    "text": "Welcome to my blog! I’m excited to share my thoughts and insights, not just on housing policy, but other issues and areas of interest for me."
+  },
+  {
+    "objectID": "posts/2025-12-06-welcome/index.html#what-to-expect",
+    "href": "posts/2025-12-06-welcome/index.html#what-to-expect",
+    "title": "New Beginning",
+    "section": "What to Expect",
+    "text": "What to Expect\nThis blog will feature:\n\nHousing Policy Analysis: Deep dives into housing research, policy proposals, and data analysis\nData Insights: Visualizations and findings from various datasets\nProfessional Updates: Thoughts on my work and career journey\nRandom Musings: Anything else that catches my interest"
+  },
+  {
+    "objectID": "posts/2025-12-06-welcome/index.html#stay-connected",
+    "href": "posts/2025-12-06-welcome/index.html#stay-connected",
+    "title": "New Beginning",
+    "section": "Stay Connected",
+    "text": "Stay Connected\nFeel free to reach out through my contact page if you have any questions or topics you’d like me to explore.\nThanks for reading!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Touring with bands. Digging up history. Leading policy and developing affordable housing. The path to where I am now has been long and winding with lots of detours. But my diverse experiences have given me a unique perspective and skills to address any problem with passion and determination.\nGrowing up in Newport News, Virginia, I had early dreams of being a photographer for touring bands, documenting their lifestyle and going along for the ride. By taking risks, I was able to go on two national tours to see the United States.\n\n\n\n\n\nWhile I had many opportunities to grow in the music industry, I felt a pull towards expanding my knowledge and professional opportunities. After a break from undergrad, I went back with a drive and passion for history. I finished my bachelor’s degree in art history after spending a month in the Middle East doing archaeology.\n\n\n\n\n\nUpon graduation in 2012, I ended up at a cultural resources management firm doing archaeology across the Mid-Atlantic. Digging up layers of history throughout Virginia exposed me to Virginia’s expansive geography and culture. I was all in on archaeology at the time and decided to pursue a master’s degree in archaeology while working in the field.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Previous\n\n\n Next\n\n\nMy education in archaeology and heritage management exposed me to critical theory and a greater understanding of the contemporary impacts of control over historic narratives and resources. This increased consciousness illuminated the ways in which my employer was being unethical in our work.\nI left the field of archaeology seeking to have a greater impact on existing communities and to bring a historic perspective to current development. Of all things, I decided to make a big pivot and go back to school to get another master’s degree.\nIn 2018, I went all in on urban planning at Virginia Commonwealth University. The program helped shape and develop my interest in housing and community development. After graduating in 2020 (during the pandemic), I landed a position with a consulting firm called HDAdvisors. For just over five years, I was exposed to Virginia’s affordable housing industry and helped to elevate zoning education, increase capacity among partners to solve their housing challenges, and brought innovative ideas to Virginia leaders."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "Touring with bands. Digging up history. Leading policy and developing affordable housing. The path to where I am now has been long and winding with lots of detours. But my diverse experiences have given me a unique perspective and skills to address any problem with passion and determination.\nGrowing up in Newport News, Virginia, I had early dreams of being a photographer for touring bands, documenting their lifestyle and going along for the ride. By taking risks, I was able to go on two national tours to see the United States.\n\n\n\n\n\nWhile I had many opportunities to grow in the music industry, I felt a pull towards expanding my knowledge and professional opportunities. After a break from undergrad, I went back with a drive and passion for history. I finished my bachelor’s degree in art history after spending a month in the Middle East doing archaeology.\n\n\n\n\n\nUpon graduation in 2012, I ended up at a cultural resources management firm doing archaeology across the Mid-Atlantic. Digging up layers of history throughout Virginia exposed me to Virginia’s expansive geography and culture. I was all in on archaeology at the time and decided to pursue a master’s degree in archaeology while working in the field.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Previous\n\n\n Next\n\n\nMy education in archaeology and heritage management exposed me to critical theory and a greater understanding of the contemporary impacts of control over historic narratives and resources. This increased consciousness illuminated the ways in which my employer was being unethical in our work.\nI left the field of archaeology seeking to have a greater impact on existing communities and to bring a historic perspective to current development. Of all things, I decided to make a big pivot and go back to school to get another master’s degree.\nIn 2018, I went all in on urban planning at Virginia Commonwealth University. The program helped shape and develop my interest in housing and community development. After graduating in 2020 (during the pandemic), I landed a position with a consulting firm called HDAdvisors. For just over five years, I was exposed to Virginia’s affordable housing industry and helped to elevate zoning education, increase capacity among partners to solve their housing challenges, and brought innovative ideas to Virginia leaders."
+  },
+  {
+    "objectID": "about.html#personal",
+    "href": "about.html#personal",
+    "title": "About Me",
+    "section": "Personal",
+    "text": "Personal\nI currently live in Richmond, Virginia with my wife, Rebecca, our two children, Miles and Margot, and our two dogs, Juniper and Pickle. We love spending our time walking or biking through our neighborhood and enjoying the trails along the James River.\nIn my (limited) free time, I love reading fantasy and science fiction books. Some favorites are:\n\nBetween Two Fires by Christopher Buehlman\nThe Way of Kings by Brandon Sanderson\nVarious Philip K. Dick stories and books\nThe Witcher Series by Andrzej Sapkowski\n\nAnd I love watching movies and learning about how they are made and the stories behind the industry. Here are some of my favorite movies and media to consume about movies:\n\nThe Big Picture Podcast\nBlank Check with Griffin & David\nIndiana Jones and the Last Crusade(1989)\nBefore Sunrise(1995)\nThe Truman Show(1998)\nNational Treasure(2004)\nSicario(2015)\n\nCheck out my Letterboxd profile to see what I’m watching:\nMy Letterboxd Profile"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Welcome to my portfolio! Here you’ll find a selection of my projects and work."
+  },
+  {
+    "objectID": "portfolio.html#featured-projects",
+    "href": "portfolio.html#featured-projects",
+    "title": "Portfolio",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nVirginia Zoning Atlas (2025)\n\nDescription: An interactive web map that compiles and analyzes local zoning ordinances in Virginia. Beginning as an independent web application focusing on the three major metropolitan regions of Virginia, the Virginia Zoning Atlas was later incorporated into the larger National Zoning Atlas project.\nTechnologies Used: R, Shiny, QGIS\nKey Contributions:\n\nFounded and led the development of the initial iteration of the Virginia Zoning Atlas\nSecured over $5 million in grant funding to complete the full Virginia Zoning Atlas\nPresented at multiple conferences and events in support of the atlas project\n\nLinks: Website\n\n\n\nMiddle Income Housing Programs: A National Scan (2025)\n\nDescription: Virginia Housing contracted with HousingForward Virginia to conduct a national scan of state-funded programs and initiatives serving households earning 80% to 120% area median income. This research provided Virginia Housing with valuable insights into state-level initiatives and high-production regions, informing future policy decisions and program implementations.\nKey Contributions:\n\nThe first comprehensive national scan of state-level programs addressing middle-income housing needs\nIdentified 58 programs across 34 states, including three programs in Virginia\nPrograms ranged from homebuyer assistance, developer financing, and even public enterprises\n\nLinks: Report | Spreadsheet\n\n\n\nFaith-Owned Property Ownership in Virginia (2024)\n\nDescription: The Virginia Center for Interfaith Public Policy commissioned Housing Forward Virginia to conduct a study quantifying the of land owned by faith-based organizations in Virginia. The report sought to support VICPP’s advocacy for Senate Bill 233, which aimed to grant religious organizations certain powers to overcome local zoning barriers for affordable housing development on their own land.\nTechnologies Used: R, QGIS\nKey Contributions:\n\nDetermined that out of the over 4 million parcels in Virginia, 22,453 were identified as likely owned by a faith-based organization - equating to 74,116 acres\nIdentified a clear need for standardized parcel records and quality assurance among local government data collection\nIdentified zoning as a major barrier to housing development on a majority of faith-owned parcels in Northern Virginia\n\nLinks: Report | Presentation | APA Presentation\n\n\n\nHouse Bill 854 Statewide Housing Study (2022)\n\n\n\n\n\nDescription: A report commissioned by the Virginia General Assembly to investigate housing needs across the Commonwealth and makes recommendations to state housing agencies, the General Assembly, and Governor’s Office for improving housing affordability and opportunity for all Virginians.\nTechnologies Used: Bookdown, Tableau\nKey Contributions:\n\nInvestigated state-funded rental assistance program feasibility\nExplored the overall affordable housing supply need in Virginia and across its various market regions\nEvaluated the effectiveness of state-run affordable housing programs\n\nLinks: Report\n\n\n\nHousingX 2022\n\nDescription: HousingX is an unconventional conference held by HousingForward Virginia that brings housing innovators within Virginia and across the nation together to explore new and emerging ideas to solve our housing crisis. The second HousingX conference was held in May 2022 in Newport News and brought over 200 individuals together.\nKey Contributions:\n\nServed as the main content planner, bringing Curtis Moody, FAIA, NOMAC (Moody Nolan), Anna Mackay (Sister City), Theo Henderson (We the UnHoused), and Zachary Mannheimer (Alquist 3D) as keynote speakers\n\nLinks: Website"
+  },
+  {
+    "objectID": "portfolio.html#other-projects",
+    "href": "portfolio.html#other-projects",
+    "title": "Portfolio",
+    "section": "Other Projects",
+    "text": "Other Projects\n\nConnecting Housing and Health in the Potomac Health Foundation Service Area (2021): Study commissioned by Potomac Health Foundation to explore the interconnection between housing affordability and health outcomes in Prince William County, Stafford County, and Fairfax County. Report [PDF]\nState of the Market and Local Policy: Accessory Dwelling Units in the Commonwealth of Virginia (2021): Findings of a data and information gathering exercise to provide the Accessory Dwelling Unit Stakeholder Advisory Group (SAG) and the Virginia Department of Housing and Community Development (DHCD) input on key issues related to accessory dwelling units (ADUs) in the Commonwealth of Virginia. The work performed in this analysis and the SAG was implemented pursuant to House Bill 2053. Report [PDF]\nGeorge Washington Region Commission: Housing Affordability Study and Action Plan (2020): Study commissioned by the George Washington Regional Commission to study housing affordability in the Fredericksburg, VA region and provide policy recommendations to address housing challenges. Report [PDF]"
+  },
+  {
+    "objectID": "portfolio.html#data-visualizations",
+    "href": "portfolio.html#data-visualizations",
+    "title": "Portfolio",
+    "section": "Data Visualizations",
+    "text": "Data Visualizations\n\nVirginia Zoning Atlas\nThe initial iteration of the Virginia Zoning Atlas was built in partnership with Kyle Walker and utilizes the R programming language and Shiny to deliver a fast and responsive web map.\n\n\n\n\nVirginia Housing Choice Voucher Dashboard\nThis data dashboard was created to support the Virginia Housing Alliance and their advocacy for the 5,000 Families Pilot Program, a state-funded rental housing assistance program to support low-income households with school-aged children.\n\n\n\n\nADU Playbook\nWith increased attention on accessory dwelling units (ADU), this data dashboard and exploration was conducted to understand the range of ADU ordinances across Virginia. This compilation was a point-in-time analysis of how local governments regulate and restrict ADUs.\n\n\n\nFor more projects, visit my GitHub profile"
   }
 ]
