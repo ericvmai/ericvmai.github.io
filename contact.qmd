@@ -1,36 +1,40 @@
 ---
-title: "Contact"
+title: "Get in Touch"
 ---
 
-## Get in Touch
-
-I'd love to hear from you! Feel free to reach out through any of the following channels:
+I'd love to hear from you! Feel free to reach out through any of the following channels or use the contact form.
 
 ## Contact Information
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn:** [linkedin.com/in/ericvmai](https://www.linkedin.com/in/ericvmai)
-- **GitHub:** [github.com/yourusername](https://github.com/ericvmai)
-
+- **GitHub:** [github.com/ericvmai](https://github.com/ericvmai)
 
 ## Contact Form
 
-[You can add a contact form integration here using services like Formspree, Google Forms, or other form services]
-
-For a simple form, you could embed an iframe or link to an external form:
-
-<!-- Example with Formspree -->
-<!-- <form action="https://formspree.io/f/your-form-id" method="POST">
-  <label>
-    Your email:
-    <input type="email" name="email" required>
-  </label>
-  <label>
-    Your message:
-    <textarea name="message" required></textarea>
-  </label>
-  <button type="submit">Send</button>
-</form> -->
+```{=html}
+<form action="https://api.web3forms.com/submit" method="POST" class="row g-3">
+  <input type="hidden" name="access_key" value="951f7e55-8414-4524-994e-b2625eb1c3d6">
+  
+  <div class="col-md-6">
+    <label for="name" class="form-label">Name</label>
+    <input type="text" class="form-control" id="name" name="name" required>
+  </div>
+  
+  <div class="col-md-6">
+    <label for="email" class="form-label">Email</label>
+    <input type="email" class="form-control" id="email" name="email" required>
+  </div>
+  
+  <div class="col-12">
+    <label for="message" class="form-label">Message</label>
+    <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
+  </div>
+  
+  <div class="col-12">
+    <button type="submit" class="btn btn-primary">Send Message</button>
+  </div>
+</form>
+```
 
 ## Response Time
 

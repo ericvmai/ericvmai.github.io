@@ -6,122 +6,136 @@ Welcome to my portfolio! Here you'll find a selection of my projects and work.
 
 ## Featured Projects
 
-### House Bill 854 
+### Virginia Zoning Atlas (2025)
 
-![Project 1 Image](images/project1.png)
+![](resources/zoningatlas.png){width="500"}
 
-**Description:** [Brief description of the project - what it does, why it's important]
+**Description:** An interactive web map that compiles and analyzes local zoning ordinances in Virginia. Beginning as an independent web application focusing on the three major metropolitan regions of Virginia, the Virginia Zoning Atlas was later incorporated into the larger National Zoning Atlas project.
 
-**Technologies Used:** [R, Quarto, ggplot2, etc.]
+**Technologies Used:** R, Shiny, QGIS
 
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+**Key Contributions**:
 
-**Links:** [GitHub](link) | [Live Demo](link) | [Documentation](link)
+-   Founded and led the development of the initial iteration of the Virginia Zoning Atlas
 
----
+-   Secured over \$5 million in grant funding to complete the full Virginia Zoning Atlas
 
-### Faith-Owned Property Ownership in Virginia
+-   Presented at multiple conferences and events in support of the atlas project
 
-![Project 2 Image](images/project2.png)
+**Links:** [Website](https://housingforwardva.org/applications/virginia-zoning-atlas/)
 
-**Description:** [Brief description of the project]
+------------------------------------------------------------------------
 
-**Technologies Used:** [List technologies]
+### Middle Income Housing Programs: A National Scan (2025)
 
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+![](resources/middle.png){width="400"}
 
-**Links:** [GitHub](link) | [Live Demo](link)
+**Description:** Virginia Housing contracted with HousingForward Virginia to conduct a national scan of state-funded programs and initiatives serving households earning 80% to 120% area median income. This research provided Virginia Housing with valuable insights into state-level initiatives and high-production regions, informing future policy decisions and program implementations.
 
----
+**Key Contributions:**
 
-### Middle Income Housing Programs: A National Scan
+-   The first comprehensive national scan of state-level programs addressing middle-income housing needs
 
-![Project 3 Image](images/project3.png)
+-   Identified 58 programs across 34 states, including three programs in Virginia
 
-**Description:** [Brief description of the project]
+-   Programs ranged from homebuyer assistance, developer financing, and even public enterprises
 
-**Technologies Used:** [List technologies]
+**Links:** Report \| Spreadsheet
 
-**Key Achievements:**
-- Achievement 1
-- Achievement 2
-- Achievement 3
+------------------------------------------------------------------------
 
-**Links:** [GitHub](link) | [Publication](link)
+### Faith-Owned Property Ownership in Virginia (2024)
 
----
+![](resources/yigby.png){width="500"}
+
+**Description:** The Virginia Center for Interfaith Public Policy commissioned Housing Forward Virginia to conduct a study quantifying the of land owned by faith-based organizations in Virginia. The report sought to support VICPP's advocacy for Senate Bill 233, which aimed to grant religious organizations certain powers to overcome local zoning barriers for affordable housing development on their own land.
+
+**Technologies Used:** R, QGIS
+
+**Key Contributions:**
+
+-   Determined that out of the over 4 million parcels in Virginia, 22,453 were identified as likely owned by a faith-based organization - equating to 74,116 acres
+
+-   Identified a clear need for standardized parcel records and quality assurance among local government data collection
+
+-   Identified zoning as a major barrier to housing development on a majority of faith-owned parcels in Northern Virginia
+
+**Links:** [Report](chrome-extension://efaidhttps://virginiainterfaithcenter.org/wp-content/uploads/2024/12/Faith-Based-Property-Ownership-Full-Report-UPDATE.pdf) \| Presentation \| APA Presentation
+
+------------------------------------------------------------------------
+
+### House Bill 854 Statewide Housing Study (2022)
+
+![](resources/hb854-cover.png){fig-align="left" width="500"}
+
+**Description:** A report commissioned by the Virginia General Assembly to investigate housing needs across the Commonwealth and makes recommendations to state housing agencies, the General Assembly, and Governor’s Office for improving housing affordability and opportunity for all Virginians.
+
+**Technologies Used:** Bookdown, Tableau
+
+**Key Contributions**:
+
+-   Investigated state-funded rental assistance program feasibility
+
+-   Explored the overall affordable housing supply need in Virginia and across its various market regions
+
+-   Evaluated the effectiveness of state-run affordable housing programs
+
+**Links:** [Report](https://dmz1.dhcd.virginia.gov/HB854/index.html)
+
+------------------------------------------------------------------------
 
 ### HousingX 2022
 
-![Project 3 Image](images/project3.png)
+![](resources/housingx.png){width="500"}
 
-**Description:** [Brief description of the project]
+**Description:** HousingX is an unconventional conference held by HousingForward Virginia that brings housing innovators within Virginia and across the nation together to explore new and emerging ideas to solve our housing crisis. The second HousingX conference was held in May 2022 in Newport News and brought over 200 individuals together.
 
-**Technologies Used:** [List technologies]
+**Key Contributions:**
 
-**Key Achievements:**
-- Achievement 1
-- Achievement 2
-- Achievement 3
+-   Served as the main content planner, bringing Curtis Moody, FAIA, NOMAC (Moody Nolan), Anna Mackay (Sister City), Theo Henderson (We the UnHoused), and Zachary Mannheimer (Alquist 3D) as keynote speakers
 
-**Links:** [GitHub](link) | [Publication](link)
+**Links:** [Website](https://housingforwardva.org/housingx/2022-conference/)
 
----
+------------------------------------------------------------------------
 
 ## Other Projects
 
-- **[Project Name]:** [Brief description] - [Link]
-- **[Project Name]:** [Brief description] - [Link]
-- **[Project Name]:** [Brief description] - [Link]
+-   **Connecting Housing and Health in the Potomac Health Foundation Service Area (2021):** Study commissioned by Potomac Health Foundation to explore the interconnection between housing affordability and health outcomes in Prince William County, Stafford County, and Fairfax County. [Report \[PDF\]](https://housingforwardva.org/wp-content/uploads/2021/09/PHF-Housing-Health-Report-FINAL-DRAFT.pdf)
+-   **State of the Market and Local Policy: Accessory Dwelling Units in the Commonwealth of Virginia (2021):** Findings of a data and information gathering exercise to provide the Accessory Dwelling Unit Stakeholder Advisory Group (SAG) and the Virginia Department of Housing and Community Development (DHCD) input on key issues related to accessory dwelling units (ADUs) in the Commonwealth of Virginia. The work performed in this analysis and the SAG was implemented pursuant to House Bill 2053. [Report \[PDF\]](https://mlsoc.vt.edu/content/dam/mlsoc_vt_edu/research/virginia-center-for-housing-research/publications/ADU%20%20HB2053%20Final.pdf)
+-   **George Washington Region Commission: Housing Affordability Study and Action Plan (2020):** Study commissioned by the George Washington Regional Commission to study housing affordability in the Fredericksburg, VA region and provide policy recommendations to address housing challenges. [Report \[PDF\]](https://gwregion.org/wp-content/uploads/2020/10/GWRC-2020-Housing-Affordability-Study-and-Action-Plan-Final-Layout.pdf)
 
----
+------------------------------------------------------------------------
 
 ## Data Visualizations
+
+### Virginia Zoning Atlas
+
+The initial iteration of the Virginia Zoning Atlas was built in partnership with Kyle Walker and utilizes the R programming language and Shiny to deliver a fast and responsive web map.
 
 ```{=html}
 
 <iframe id="vza" src="https://housingforwardva.shinyapps.io/va_zoning_atlas/" style="border: none; width: 700px; height: 1000px" frameborder="0"></iframe>
-
 ```
+
+### Virginia Housing Choice Voucher Dashboard
+
+This data dashboard was created to support the Virginia Housing Alliance and their advocacy for the 5,000 Families Pilot Program, a state-funded rental housing assistance program to support low-income households with school-aged children.
 
 ```{=html}
 
-<iframe id="hcv" src="https://housingforwardva.shinyapps.io/hcv_dashboard/" style="border: none; width: 700px; height: 800x" frameborder="0"></iframe>
-
+<iframe id="hcv" src="https://housingforwardva.shinyapps.io/hcv_dashboard/" style="border: none; width: 700px; height: 1000px" frameborder="0"></iframe>
 ```
+
+### ADU Playbook
+
+With increased attention on accessory dwelling units (ADU), this data dashboard and exploration was conducted to understand the range of ADU ordinances across Virginia. This compilation was a point-in-time analysis of how local governments regulate and restrict ADUs.
 
 ```{=html}
 
 <iframe id="adu" src="https://housingforwardva.shinyapps.io/playbook_adu/
-" style="border: none; width: 700px; height: 800x" frameborder="0"></iframe>
-
+" style="border: none; width: 700px; height: 1000px" frameborder="0"></iframe>
 ```
 
+------------------------------------------------------------------------
 
-
-
-
-```{r}
-#| echo: false
-#| eval: false
-# Example R code for creating visualizations
-# library(ggplot2)
-# [Your visualization code]
-```
-
----
-
-## Open Source Contributions
-
-- **[Repository Name]:** [Description of contribution]
-- **[Repository Name]:** [Description of contribution]
-
----
-
-*For more projects, visit my [GitHub profile](https://github.com/yourusername)*
+*For more projects, visit my [GitHub profile](https://github.com/ericvmai)*

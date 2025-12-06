@@ -16,8 +16,6 @@ website:
         text: More About Me
       - href: resume.qmd
         text: Resume
-      - href: cv.qmd
-        text: CV
       - href: portfolio.qmd
         text: Portfolio
       - href: contact.qmd
