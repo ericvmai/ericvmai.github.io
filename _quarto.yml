@@ -3,12 +3,16 @@ project:
   output-dir: docs
   resources:
     - CNAME
+    - robots.txt
 
 website:
   title: "Eric Mai"
   site-url: "https://ericvmai.com"
   repo-url: "https://github.com/ericvmai/ericvmai"
   favicon: resources/favicon.png
+  description: "Eric Mai - Policy Leader & Researcher specializing in Housing & Community Development. Urban planning expert with experience in affordable housing, zoning policy, and data analysis."
+  site-path: "/"
+  google-analytics: "G-XXXXXXXXXX"  # Add your GA4 ID here if you have one
   navbar:
     left:
       - href: index.qmd
@@ -28,3 +32,24 @@ format:
   html:
     theme: cosmo  # or remove the theme line entirely
     css: fix.css
+    html-meta-tags:
+      - name: "author"
+        content: "Eric Mai"
+      - name: "keywords"
+        content: "Eric Mai, policy researcher, housing policy, urban planning, affordable housing, Virginia, community development, zoning"
+      - name: "viewport"
+        content: "width=device-width, initial-scale=1"
+      - property: "og:title"
+        content: "Eric Mai - Policy Leader & Researcher"
+      - property: "og:description"
+        content: "Policy Leader & Researcher specializing in Housing & Community Development. Urban planning expert with experience in affordable housing, zoning policy, and data analysis."
+      - property: "og:url"
+        content: "https://ericvmai.com"
+      - property: "og:type"
+        content: "website"
+      - name: "twitter:card"
+        content: "summary"
+      - name: "twitter:title"
+        content: "Eric Mai - Policy Leader & Researcher"
+      - name: "twitter:description"
+        content: "Policy Leader & Researcher specializing in Housing & Community Development"
