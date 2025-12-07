@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ericvmai.com/</loc>
-    <lastmod>2025-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://ericvmai.com/about.html</loc>
-    <lastmod>2025-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://ericvmai.com/resume.html</loc>
-    <lastmod>2025-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://ericvmai.com/portfolio.html</loc>
-    <lastmod>2025-12-07</lastmod>
-  </url>
-  <url>
     <loc>https://ericvmai.com/blog.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2025-12-06T15:47:12.755Z</lastmod>
   </url>
   <url>
-    <loc>https://ericvmai.com/contact.html</loc>
-    <lastmod>2025-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://ericvmai.com/styles.html</loc>
-    <lastmod>2025-12-07</lastmod>
+    <loc>https://ericvmai.com/cv.html</loc>
+    <lastmod>2025-12-05T12:21:39.263Z</lastmod>
   </url>
   <url>
     <loc>https://ericvmai.com/index.html</loc>
     <lastmod>2025-12-07T13:54:00.797Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericvmai.com/posts/2025-12-06-welcome/index.html</loc>
+    <lastmod>2025-12-06T16:06:40.711Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericvmai.com/contact.html</loc>
+    <lastmod>2025-12-06T15:26:36.332Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericvmai.com/resume.html</loc>
+    <lastmod>2025-12-07T16:37:29.037Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericvmai.com/styles.html</loc>
+    <lastmod>2025-12-07T13:54:39.714Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericvmai.com/about.html</loc>
+    <lastmod>2025-12-07T16:37:09.455Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericvmai.com/portfolio.html</loc>
+    <lastmod>2025-12-06T15:17:47.340Z</lastmod>
   </url>
 </urlset>

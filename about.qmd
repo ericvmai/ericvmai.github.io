@@ -58,7 +58,6 @@ I left the field of archaeology seeking to have a greater impact on existing com
 
 In 2018, I went all in on urban planning at Virginia Commonwealth University. The program helped shape and develop my interest in housing and community development. After graduating in 2020 (during the pandemic), I landed a position with a consulting firm called HDAdvisors. For just over five years, I was exposed to Virginia's affordable housing industry and helped to elevate zoning education, increase capacity among partners to solve their housing challenges, and brought innovative ideas to Virginia leaders.
 
-------------------------------------------------------------------------
 
 ## Personal
 
@@ -108,5 +107,3 @@ document.getElementById('letterboxd-embed-wrapper-tc').innerHTML = data;
 ```
 
 ------------------------------------------------------------------------
-
-### Music

@@ -17,14 +17,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: More About Me
       - href: resume.qmd
         text: Resume
       - href: portfolio.qmd
         text: Portfolio
-      - href: blog.qmd
-        text: Blog
+      - href: about.qmd
+        text: More About Me
+#      - href: blog.qmd
+#        text: Blog
       - href: contact.qmd
         text: Contact
 
