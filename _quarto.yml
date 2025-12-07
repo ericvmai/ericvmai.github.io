@@ -8,6 +8,7 @@ website:
   title: "Eric Mai"
   site-url: "https://ericvmai.com"
   repo-url: "https://github.com/ericvmai/ericvmai"
+  favicon: resources/favicon.png
   navbar:
     left:
       - href: index.qmd

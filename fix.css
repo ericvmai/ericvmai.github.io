@@ -4,6 +4,15 @@
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
 
+/* Import local Sailors font */
+@font-face {
+  font-family: 'Sailors';
+  src: url('resources/sailors.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 /* ===== OVERRIDE BOOTSTRAP'S DEFAULT DISPLAY ===== */
 /* Bootstrap doesn't automatically make divs flex containers */
 
@@ -183,7 +192,7 @@ section.level1 h1 .gradient-text,
   margin-top: 0 !important;
   margin-bottom: 1rem !important;
   line-height: 1.1 !important;
-  font-family: 'Open Sans', sans-serif !important;
+  font-family: 'Sailors', 'Open Sans', sans-serif !important;
 }
 
 /* Only apply color to non-gradient h1 text */
@@ -195,7 +204,26 @@ section.level1 h1 .gradient-text,
   font-size: 1.75rem !important;
   margin-top: 0 !important;
   color: #2B3949 !important;
-  font-family: 'Open Sans', sans-serif !important;
+  font-family: 'Sailors', 'Open Sans', sans-serif !important;
+}
+
+/* Apply dark blue color to ALL headers (except gradient text) */
+h1:not(.gradient-text),
+h2:not(.gradient-text),
+h3:not(.gradient-text),
+h4:not(.gradient-text),
+h5:not(.gradient-text),
+h6:not(.gradient-text) {
+  color: #2B3949 !important;
+  font-family: 'Sailors', 'Open Sans', sans-serif !important;
+}
+
+/* ===== NAVIGATION STYLING ===== */
+/* Apply Sailors font to navbar text */
+.navbar-nav .nav-link,
+.navbar-brand,
+.navbar .nav-item .nav-link {
+  font-family: 'Sailors', 'Open Sans', sans-serif !important;
 }
 
 /* ===== MOBILE RESPONSIVE ===== */

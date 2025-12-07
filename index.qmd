@@ -8,6 +8,7 @@
 <div class="profile-content-col">
 
 # [Eric Mai]{.gradient-text}
+## (*Pronounced: "My"*)
 
 **Policy Leader & Researcher**  
 *Housing & Community Development*

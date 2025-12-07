@@ -1,0 +1,274 @@
+---
+title: "Style Guide"
+---
+
+# Website Style Components
+
+This page demonstrates all the custom style elements used throughout the website and shows how to implement them.
+
+## Hero Profile Section
+
+The main hero section uses a two-column flex layout with a circular profile image and content area.
+
+### Implementation:
+```html
+<div class="hero-profile-section">
+<div class="profile-container">
+<div class="profile-image-col">
+
+![Your Name](resources/yourimage.jpg){.profile-image}
+
+</div>
+<div class="profile-content-col">
+
+# [Your Name]{.gradient-text}
+
+**Your Title**  
+*Your Subtitle*
+
+Your description text here...
+
+</div>
+</div>
+</div>
+```
+
+### Example:
+<div class="hero-profile-section">
+<div class="profile-container">
+<div class="profile-image-col">
+
+![Demo Profile](resources/eric.jpg){.profile-image}
+
+</div>
+<div class="profile-content-col">
+
+# [Demo Profile]{.gradient-text}
+
+**Style Guide Example**  
+*Demonstrating Profile Layout*
+
+This shows how the hero profile section displays with the circular image and gradient text effect.
+
+</div>
+</div>
+</div>
+
+---
+
+## Gradient Text Effect
+
+The animated gradient text effect cycles through multiple colors with smooth transitions.
+
+### Implementation:
+```html
+# [Your Gradient Text]{.gradient-text}
+```
+
+### Examples:
+
+# [Main Heading with Gradient]{.gradient-text}
+
+## Regular Heading (No Gradient)
+
+### Color Scheme:
+- **#4C7C71** (Teal)
+- **#2B3949** (Dark Blue)  
+- **#3F5877** (Medium Blue)
+- **#e76f52** (Orange)
+
+---
+
+## Section Container Layout
+
+Two-column sections with a fixed-width header column and flexible content column.
+
+### Implementation:
+```html
+<div class="section-container">
+<div class="section-header-col">
+
+## Section Title
+
+</div>
+<div class="section-content-col">
+
+Your content here...
+
+</div>
+</div>
+```
+
+### Example:
+<div class="section-container">
+<div class="section-header-col">
+
+## Highlights
+
+</div>
+<div class="section-content-col">
+
+- **Bold Achievement** - Description of the achievement
+- **Another Achievement** - More details about accomplishments
+- **Third Achievement** - Additional information
+
+</div>
+</div>
+
+<div class="section-container">
+<div class="section-header-col">
+
+## Experience
+
+</div>
+<div class="section-content-col">
+
+**Job Title** (2020-2025)  
+*Company Name*  
+Description of role and responsibilities.
+
+**Previous Role** (2018-2020)  
+*Previous Company*  
+Description of previous experience.
+
+</div>
+</div>
+
+---
+
+## Custom List Styling
+
+Lists use custom arrow bullet points instead of standard bullets.
+
+### Implementation:
+```html
+<div class="section-content-col">
+
+- List item one
+- List item two  
+- List item three
+
+</div>
+```
+
+### Example:
+<div class="section-content-col">
+
+- This list uses custom arrow bullets
+- Each item has the orange arrow style
+- The styling is applied automatically within section-content-col
+
+</div>
+
+---
+
+## Typography Hierarchy
+
+The website uses Open Sans font family with specific sizing and colors.
+
+### Implementation:
+- **H1**: 3rem, gradient text available with `.gradient-text`
+- **H2**: 1.75rem, color #2B3949
+- **Body**: Standard sizing with Open Sans
+
+### Examples:
+
+# H1 Heading (3rem)
+## H2 Heading (1.75rem)  
+### H3 Heading (Default)
+
+Regular paragraph text maintains good readability with the Open Sans font family.
+
+**Bold text** and *italic text* maintain proper contrast and readability.
+
+---
+
+## Bootstrap Carousel
+
+Custom styled carousel with black arrow navigation.
+
+### Implementation:
+```html
+::::::: {#carouselId .carousel .slide .my-4 data-bs-ride="carousel" style="max-width: 600px; margin: 0 auto;"}
+::: carousel-indicators
+<button type="button" data-bs-target="#carouselId" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1">
+</button>
+<button type="button" data-bs-target="#carouselId" data-bs-slide-to="1" aria-label="Slide 2">
+</button>
+:::
+
+::::: carousel-inner
+::: {.carousel-item .active}
+<img src="image1.jpg" alt="Description" class="d-block w-100" style="height: 400px; object-fit: contain;"/>
+:::
+::: carousel-item
+<img src="image2.jpg" alt="Description" class="d-block w-100" style="height: 400px; object-fit: contain;"/>
+:::
+:::::
+
+<button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
+[Previous]{.visually-hidden}
+</button>
+<button class="carousel-control-next" type="button" data-bs-target="#carouselId" data-bs-slide="next">
+[Next]{.visually-hidden}
+</button>
+:::::::
+```
+
+### Features:
+- **Clean white background**
+- **Black arrow navigation** (always visible)
+- **Responsive image sizing** (object-fit: contain)
+- **Centered layout** with max-width constraint
+
+---
+
+## Mobile Responsive Design
+
+All layouts automatically adapt for mobile devices:
+
+### Breakpoint: 768px
+- **Hero section**: Stacks vertically, centers image
+- **Section containers**: Switch to single column
+- **Profile image**: Reduces to 200px on mobile
+- **Typography**: Maintains readability
+
+### Implementation:
+The responsive design is handled automatically by the CSS. No additional markup needed.
+
+---
+
+## Color Palette
+
+### Primary Colors:
+- **Dark Blue**: `#2B3949` (Main text, headings)
+- **Medium Blue**: `#3F5877` (Accents)
+- **Teal**: `#4C7C71` (Gradient)
+- **Orange**: `#e76f52` (Highlights, arrows)
+
+### Usage:
+- **Headers**: Dark blue (#2B3949)
+- **Gradient text**: Animated through all colors
+- **Arrows/bullets**: Orange (#e76f52)
+- **Borders**: Dark blue (#2B3949)
+
+---
+
+## CSS Classes Reference
+
+### Layout Classes:
+- `.hero-profile-section` - Main hero container
+- `.profile-container` - Flex container for hero content
+- `.profile-image-col` - Fixed-width image column
+- `.profile-content-col` - Flexible content column
+- `.section-container` - Two-column section layout
+- `.section-header-col` - Fixed-width header column
+- `.section-content-col` - Flexible content column
+
+### Styling Classes:
+- `.gradient-text` - Animated gradient text effect
+- `.profile-image` - Circular profile image styling
+
+### Component Classes:
+- `.carousel` - Bootstrap carousel with custom arrows
+- Standard Bootstrap classes work with custom styling
