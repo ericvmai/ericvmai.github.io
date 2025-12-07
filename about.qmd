@@ -62,18 +62,22 @@ In 2018, I went all in on urban planning at Virginia Commonwealth University. Th
 
 ## Personal
 
-I was raised by a single-mother who moved to the United States in the mid 1980s after I currently live in Richmond, Virginia with my wife, Rebecca, our two children, Miles and Margot, and our two dogs, Juniper and Pickle. We love spending our time walking or biking through our neighborhood and enjoying the trails along the James River.
+I currently live in Richmond, Virginia with my wife, Rebecca, our two children, Miles and Margot, and our two dogs, Juniper and Pickle. We love spending our time walking or biking through our neighborhood and enjoying the trails along the James River.
 
 ------------------------------------------------------------------------
+
+### Books
 
 In my (limited) free time, I love reading fantasy and science fiction books. Some favorites are:
 
 -   [Between Two Fires](https://www.goodreads.com/book/show/13543121-between-two-fires) by Christopher Buehlman
 -   [The Way of Kings](https://www.goodreads.com/book/show/7235533-the-way-of-kings?from_search=true&from_srp=true&qid=lXCQY8jIEu&rank=1) by Brandon Sanderson
--   Various Philip K. Dick stories and books
--   The Witcher Series by Andrzej Sapkowski
+-   Various [Philip K. Dick](https://www.goodreads.com/author/show/4764.Philip_K_Dick) stories and books
+-   The Witcher Series by [Andrzej Sapkowski](https://www.goodreads.com/author/show/38569.Andrzej_Sapkowski)
 
 ------------------------------------------------------------------------
+
+### Movies
 
 And I love watching movies and learning about how they are made and the stories behind the industry. Here are some of my favorite movies and media to consume about movies:
 
@@ -102,3 +106,7 @@ document.getElementById('letterboxd-embed-wrapper-tc').innerHTML = data;
 });
 </script>
 ```
+
+------------------------------------------------------------------------
+
+### Music
