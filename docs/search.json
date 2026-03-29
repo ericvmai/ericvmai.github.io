@@ -1,5 +1,222 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my blog! Here I share thoughts on housing policy, data analysis, and other topics that interest me.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Beginning\n\n\n\n\n\n\nintroduction\n\n\n\nAn introduction to my blog\n\n\n\n\n\nDec 6, 2025\n\n\nEric Mai\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "[Your Title/Position] [Your Institution/Organization] [Email] | [Phone] | [Website]"
+  },
+  {
+    "objectID": "cv.html#eric-mai",
+    "href": "cv.html#eric-mai",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "[Your Title/Position] [Your Institution/Organization] [Email] | [Phone] | [Website]"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n[Degree Name]\n[University Name] | [Location] [Year]\n\nDissertation: [Title]\nAdvisor: [Advisor Name]\nRelevant coursework: [List courses]\n\n\n\n[Previous Degree]\n[University Name] | [Location] [Year]"
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research Experience",
+    "text": "Research Experience\n\n[Research Position Title]\n[Institution/Lab Name] | [Location] [Start Date] - [End Date or Present]\n\nResearch focus and methodology\nKey findings or contributions\nTechnologies/tools used\n\n\n\n[Previous Research Position]\n[Institution/Lab Name] | [Location] [Start Date] - [End Date]\n\nResearch focus and methodology\nKey findings or contributions"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\n\nPeer-Reviewed Articles\n\n[Author names]. ([Year]). [Title]. [Journal Name], Volume, [Pages]. DOI: [DOI]\n[Author names]. ([Year]). [Title]. [Journal Name], Volume, [Pages].\n\n\n\nConference Proceedings\n\n[Author names]. ([Year]). [Title]. In [Conference Name] (pp. [Pages]). [Location].\n\n\n\nWorking Papers\n\n[Author names]. ([Year]). [Title]. [Status/Details]."
+  },
+  {
+    "objectID": "cv.html#presentations",
+    "href": "cv.html#presentations",
+    "title": "Curriculum Vitae",
+    "section": "Presentations",
+    "text": "Presentations\n\nConference Presentations\n\n[Title]. Presented at [Conference Name], [Location], [Date].\n[Title]. Presented at [Conference Name], [Location], [Date].\n\n\n\nInvited Talks\n\n[Title]. [Institution/Organization], [Location], [Date]."
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\n[Course Title]\n[Institution] | [Role: Instructor/TA] [Semester/Year]\n\nCourse description and level\nNumber of students\nKey topics covered"
+  },
+  {
+    "objectID": "cv.html#grants-funding",
+    "href": "cv.html#grants-funding",
+    "title": "Curriculum Vitae",
+    "section": "Grants & Funding",
+    "text": "Grants & Funding\n\n[Grant Name], [Funding Agency], [Amount], [Year]\n[Fellowship Name], [Organization], [Year]"
+  },
+  {
+    "objectID": "cv.html#professional-service",
+    "href": "cv.html#professional-service",
+    "title": "Curriculum Vitae",
+    "section": "Professional Service",
+    "text": "Professional Service\n\nReviewing\n\nReviewer for [Journal Name]\nReviewer for [Conference Name]\n\n\n\nCommittee Membership\n\n[Committee Name], [Organization], [Year]\n[Committee Name], [Organization], [Year]"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\nTechnical Skills: [List technical and research skills] Software: [R, Python, STATA, etc.] Languages: [English (native), etc.]"
+  },
+  {
+    "objectID": "cv.html#professional-memberships",
+    "href": "cv.html#professional-memberships",
+    "title": "Curriculum Vitae",
+    "section": "Professional Memberships",
+    "text": "Professional Memberships\n\n[Organization Name], [Member Type], [Year]\n[Organization Name], [Member Type], [Year]"
+  },
+  {
+    "objectID": "cv.html#references",
+    "href": "cv.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nAvailable upon request."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Eric Mai",
+    "section": "",
+    "text": "Eric Mai\n\n\n\n\n\n\n\nPolicy Leader & Researcher\nHuman Services & Community Development\nI’m an experienced policy leader with a background in history, urban planning, and community revitalization. For over five years, I have helped to increase knowledge and data accessibility around affordable housing, led growth and modernization at a policy and research nonprofit, and built relationships with non-traditional partners outside the housing industry. Currently, I serve as a policy advisor to the City of Richmond’s Deputy Chief Administrative Officer of Human Services.\nI have a strong foundation in qualitative and quantitative data analysis and research design. But more than anything, I believe in breaking down the barriers that prevent us from understanding complex topics by focusing heavily on data visualization, accessible language, and meeting people where they are.\nI enjoy not just thinking about the work, but also how the work is done. Whether exploring ways to making work more efficient or creating systems that increase accountability and transparency, I believe that structure can lead to more flexibility and room for creativity."
+  },
+  {
+    "objectID": "index.html#pronounced-my",
+    "href": "index.html#pronounced-my",
+    "title": "Eric Mai",
+    "section": "",
+    "text": "Policy Leader & Researcher\nHuman Services & Community Development\nI’m an experienced policy leader with a background in history, urban planning, and community revitalization. For over five years, I have helped to increase knowledge and data accessibility around affordable housing, led growth and modernization at a policy and research nonprofit, and built relationships with non-traditional partners outside the housing industry. Currently, I serve as a policy advisor to the City of Richmond’s Deputy Chief Administrative Officer of Human Services.\nI have a strong foundation in qualitative and quantitative data analysis and research design. But more than anything, I believe in breaking down the barriers that prevent us from understanding complex topics by focusing heavily on data visualization, accessible language, and meeting people where they are.\nI enjoy not just thinking about the work, but also how the work is done. Whether exploring ways to making work more efficient or creating systems that increase accountability and transparency, I believe that structure can lead to more flexibility and room for creativity."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Eric Mai",
+    "section": "Highlights",
+    "text": "Highlights"
+  },
+  {
+    "objectID": "index.html#selected-works",
+    "href": "index.html#selected-works",
+    "title": "Eric Mai",
+    "section": "Selected Works",
+    "text": "Selected Works"
+  },
+  {
+    "objectID": "posts/2025-12-06-welcome/index.html",
+    "href": "posts/2025-12-06-welcome/index.html",
+    "title": "New Beginning",
+    "section": "",
+    "text": "Welcome to my blog! I’m excited to share my thoughts and insights, not just on housing policy, but other issues and areas of interest for me."
+  },
+  {
+    "objectID": "posts/2025-12-06-welcome/index.html#what-to-expect",
+    "href": "posts/2025-12-06-welcome/index.html#what-to-expect",
+    "title": "New Beginning",
+    "section": "What to Expect",
+    "text": "What to Expect\nThis blog will feature:\n\nHousing Policy Analysis: Deep dives into housing research, policy proposals, and data analysis\nData Insights: Visualizations and findings from various datasets\nProfessional Updates: Thoughts on my work and career journey\nRandom Musings: Anything else that catches my interest"
+  },
+  {
+    "objectID": "posts/2025-12-06-welcome/index.html#stay-connected",
+    "href": "posts/2025-12-06-welcome/index.html#stay-connected",
+    "title": "New Beginning",
+    "section": "Stay Connected",
+    "text": "Stay Connected\nFeel free to reach out through my contact page if you have any questions or topics you’d like me to explore.\nThanks for reading!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in Touch",
+    "section": "",
+    "text": "I’d love to hear from you! Feel free to reach out through any of the following channels or use the contact form."
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Get in Touch",
+    "section": "Contact Information",
+    "text": "Contact Information\n\nLinkedIn: linkedin.com/in/ericvmai\nGitHub: github.com/ericvmai"
+  },
+  {
+    "objectID": "contact.html#contact-form",
+    "href": "contact.html#contact-form",
+    "title": "Get in Touch",
+    "section": "Contact Form",
+    "text": "Contact Form\n\n  \n  \n  \n    Name\n    \n  \n  \n  \n    Email\n    \n  \n  \n  \n    Message\n    \n  \n  \n  \n    Send Message"
+  },
+  {
+    "objectID": "contact.html#response-time",
+    "href": "contact.html#response-time",
+    "title": "Get in Touch",
+    "section": "Response Time",
+    "text": "Response Time\nI typically respond to emails within 24-48 hours during business days.\n\nLooking forward to connecting with you!"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Policy leader and researcher focused on leveraging data and systems-level thinking to improve local government programs and decision-making. With previous experience in nonprofit management and affordable housing policy at the statewide-level, I am skilled at building cross-sector partnerships, managing complex stakeholder relationships, and translating technical analysis into actionable policy. My previous career in archaeological research and cultural resource management from 2012 to 2018 provides a unique human-centered perspective to my work."
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Resume",
+    "section": "",
+    "text": "Policy leader and researcher focused on leveraging data and systems-level thinking to improve local government programs and decision-making. With previous experience in nonprofit management and affordable housing policy at the statewide-level, I am skilled at building cross-sector partnerships, managing complex stakeholder relationships, and translating technical analysis into actionable policy. My previous career in archaeological research and cultural resource management from 2012 to 2018 provides a unique human-centered perspective to my work."
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Resume",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nPolicy Advisor\nCity of Richmond | Richmond, Virginia March 2026 - Present\n\nAssisting Human Services portfolio with ordinance and resolution development and drafting\nEvaluating city program and service impact\nDeveloping program metric tracking systems\n\n\n\nVice President\nHDAdvisors | Richmond, Virginia January 2024 - December 2025\n\nDrive business development and strategic direction as equity partner, expanding client portfolio across nonprofit and government sectors\nLead consulting engagements for affordable housing development and organizational strategy; provide real estate finance consulting for low-capacity non-profit organizations\nProvide fractional executive leadership to nonprofit clients, serving concurrently as:\n\nExecutive Director for Strategy & Sustainability, HousingForward Virginia: Secured $1M in grant funding, grew revenue 20%+ annually, developed organization’s first fiscal controls policy, implemented GAAP, led first strategic planning process, manageD 6,000+ subscriber newsletter, managed diverse board of 15+ housing leaders across public/private sectors\n\n\n\n\nSenior Associate\nHDAdvisors | Richmond, Virginia March 2020 - December 2023\n\nCo-authored HB854 Virginia Statewide Housing Needs Assessment commissioned by Virginia General Assembly, influencing state housing policy\nLed housing needs assessments for 5+ localities\nPlanned and executed HousingX 2022, an affordable housing innovation conference bringing together 200+ affordable housing innovators and practitioners\nProvided fractional leadership to nonprofit clients, serving concurrently as:\n\nDirector of Real Estate, Maggie Walker Community Land Trust: Oversaw 30+ unit affordable homeownership pipeline, expanded developer partnerships for land acquisition, manage government and partner relationships\n\n\n\n\nResearch Assistant\nVCU Survey and Evaluation Research Lab | Richmond, Virginia May 2018 - March 2020\n\nCo-authored Virginia Department of Health report establishing framework for Overdose Fatality Review Team\nEvaluated diversity and inclusion program effectiveness in higher education\nMaintained complex database supporting statewide Judicial Performance Evaluation program\n\n\n\nField Archaeologist\nCirca~ Cultural Resources Management | Williamsburg, Virginia January 2012 - May 2018\n\nWhistleblower to protect the Monacan Nation’s historic capital, Rassawek\nExcavated over 30 sites across the Mid-Atlantic, ranging from pre-historic to late 19th century"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\nMaster of Urban and Regional Planning\nVirginia Commonwealth University | Richmond, Virginia 2020\n\nMajor: Urban and Regional Planning\nGraduate Certificate: Geographic Information Systems (GIS)\nJohn Marlles Scholarship recipient\n\n\n\nMaster of Art\nUniversity of Leicester | Leicestershire, UK 2017\n\nMajor: Archaeology and Heritage Management\nMark Pluciennik MA Dissertation Prize recipient\n\n\n\nBachelor of Art\nChristopher Newport University | Newport News, Virginia 2011\n\nMajor: Art History\nMinor: Studio"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\n\nTechnical Skills:\n\nGrant writing and fund development ($1M+ secured)\nNonprofit accounting\nProgram evaluation and impact assessment\nBudget management and financial oversight\nStakeholder engagement and facilitation\nCompliance and reporting\nReal estate finance and development\n• Strategic planning and implementation\nPolicy research and white paper development\nData visualization and dashboard development\nPublic speaking and presentations\nSocial media strategy and content management\nWordPress and web application development\nOrganizational management and board governance\n\n\n\n\n\nTools & Software:\n\nAdobe Creative Suite\nArcGIS\nCanva\nLLM (Claude, ChatGPT, Gemini)\nMicrosoft Power BI\nPositron\nQGIS\nRDS\nRStudio\nS3\nSalesforce\nShiny\nSQL fundamentals\nTableau\n\n\n\n\n\nLanguages:\n\nR\nHTML\n\n\n\nBoard Leadership and Advisory Roles\n\nCity of Richmond Zoning Advisory Council | June 2024 - Present\nCommonwealth Catholic Charities Housing Corporation Board | January 2025 - Present\nRVA CDC Board | June 2024 - Present\nVirginia Housing Supportive Housing Solution Advisory Council | January 2024 - Present\nproject:HOMES Community Engagement Board | January 2020 - May 2023\nCouncil of Virginia Archaeologists | January 2020 - January 2023\n\n\n\nCertifications, Commissions, and Licenses\n\nVirginia Notary Public, Expiration Date: 8/31/2029\nVirginia DPOR Approved Post-License and Continuing Education Instructor for Real Estate, Expiration Date: 7/31/2027\n\nZoning & Housing 101\nLand Use\nLocal Laws and Zoning"
+  },
+  {
+    "objectID": "resume.html#board-leadership-and-advisory-roles",
+    "href": "resume.html#board-leadership-and-advisory-roles",
+    "title": "Resume",
+    "section": "Board Leadership and Advisory Roles",
+    "text": "Board Leadership and Advisory Roles\n\nCity of Richmond Zoning Advisory Council | June 2024 - Present\nCommonwealth Catholic Charities Housing Corporation Board | January 2025 - Present\nRVA CDC Board | June 2024 - Present\nVirginia Housing Supportive Housing Solution Advisory Council | January 2024 - Present\nproject:HOMES Community Engagement Board | January 2020 - May 2023\nCouncil of Virginia Archaeologists | January 2020 - January 2023"
+  },
+  {
+    "objectID": "resume.html#certifications-commissions-and-licenses",
+    "href": "resume.html#certifications-commissions-and-licenses",
+    "title": "Resume",
+    "section": "Certifications, Commissions, and Licenses",
+    "text": "Certifications, Commissions, and Licenses\n\nVirginia Notary Public, Expiration Date: 8/31/2029\nVirginia DPOR Approved Post-License and Continuing Education Instructor for Real Estate, Expiration Date: 7/31/2027\n\nZoning & Housing 101\nLand Use\nLocal Laws and Zoning"
+  },
+  {
     "objectID": "styles.html",
     "href": "styles.html",
     "title": "Style Guide",
@@ -98,83 +315,6 @@
     "text": "CSS Classes Reference\n\nLayout Classes:\n\n.hero-profile-section - Main hero container\n.profile-container - Flex container for hero content\n.profile-image-col - Fixed-width image column\n.profile-content-col - Flexible content column\n.section-container - Two-column section layout\n.section-header-col - Fixed-width header column\n.section-content-col - Flexible content column\n\n\n\nStyling Classes:\n\n.gradient-text - Animated gradient text effect\n.profile-image - Circular profile image styling\n\n\n\nComponent Classes:\n\n.carousel - Bootstrap carousel with custom arrows\nStandard Bootstrap classes work with custom styling"
   },
   {
-    "objectID": "posts/2025-12-06-welcome/index.html",
-    "href": "posts/2025-12-06-welcome/index.html",
-    "title": "New Beginning",
-    "section": "",
-    "text": "Welcome to my blog! I’m excited to share my thoughts and insights, not just on housing policy, but other issues and areas of interest for me."
-  },
-  {
-    "objectID": "posts/2025-12-06-welcome/index.html#what-to-expect",
-    "href": "posts/2025-12-06-welcome/index.html#what-to-expect",
-    "title": "New Beginning",
-    "section": "What to Expect",
-    "text": "What to Expect\nThis blog will feature:\n\nHousing Policy Analysis: Deep dives into housing research, policy proposals, and data analysis\nData Insights: Visualizations and findings from various datasets\nProfessional Updates: Thoughts on my work and career journey\nRandom Musings: Anything else that catches my interest"
-  },
-  {
-    "objectID": "posts/2025-12-06-welcome/index.html#stay-connected",
-    "href": "posts/2025-12-06-welcome/index.html#stay-connected",
-    "title": "New Beginning",
-    "section": "Stay Connected",
-    "text": "Stay Connected\nFeel free to reach out through my contact page if you have any questions or topics you’d like me to explore.\nThanks for reading!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Eric Mai",
-    "section": "",
-    "text": "Eric Mai\n\n\n\n\n\n\n\nPolicy Leader & Researcher\nHousing & Community Development\nI’m an experienced nonprofit leader with a background in history, urban planning, and community revitalization. For over five years, I have helped to increase knowledge and data accessibility around affordable housing, led growth and modernization at a policy and research nonprofit, and built relationships with non-traditional partners outside the housing industry.\nI have a strong foundation in qualitative and quantitative data analysis and research design. More than anything, I believe in breaking down the barriers that prevent us from understanding complex topics by focusing heavily on data visualization, accessible language, and meeting people where they are.\nI enjoy not just thinking about the work, but also how the work is done. Whether exploring ways to making work more efficient or creating systems that increase accountability and transparency, I believe that structure can lead to more flexibility and room for creativity."
-  },
-  {
-    "objectID": "index.html#pronounced-my",
-    "href": "index.html#pronounced-my",
-    "title": "Eric Mai",
-    "section": "",
-    "text": "Policy Leader & Researcher\nHousing & Community Development\nI’m an experienced nonprofit leader with a background in history, urban planning, and community revitalization. For over five years, I have helped to increase knowledge and data accessibility around affordable housing, led growth and modernization at a policy and research nonprofit, and built relationships with non-traditional partners outside the housing industry.\nI have a strong foundation in qualitative and quantitative data analysis and research design. More than anything, I believe in breaking down the barriers that prevent us from understanding complex topics by focusing heavily on data visualization, accessible language, and meeting people where they are.\nI enjoy not just thinking about the work, but also how the work is done. Whether exploring ways to making work more efficient or creating systems that increase accountability and transparency, I believe that structure can lead to more flexibility and room for creativity."
-  },
-  {
-    "objectID": "index.html#highlights",
-    "href": "index.html#highlights",
-    "title": "Eric Mai",
-    "section": "Highlights",
-    "text": "Highlights"
-  },
-  {
-    "objectID": "index.html#selected-works",
-    "href": "index.html#selected-works",
-    "title": "Eric Mai",
-    "section": "Selected Works",
-    "text": "Selected Works"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Get in Touch",
-    "section": "",
-    "text": "I’d love to hear from you! Feel free to reach out through any of the following channels or use the contact form."
-  },
-  {
-    "objectID": "contact.html#contact-information",
-    "href": "contact.html#contact-information",
-    "title": "Get in Touch",
-    "section": "Contact Information",
-    "text": "Contact Information\n\nLinkedIn: linkedin.com/in/ericvmai\nGitHub: github.com/ericvmai"
-  },
-  {
-    "objectID": "contact.html#contact-form",
-    "href": "contact.html#contact-form",
-    "title": "Get in Touch",
-    "section": "Contact Form",
-    "text": "Contact Form\n\n  \n  \n  \n    Name\n    \n  \n  \n  \n    Email\n    \n  \n  \n  \n    Message\n    \n  \n  \n  \n    Send Message"
-  },
-  {
-    "objectID": "contact.html#response-time",
-    "href": "contact.html#response-time",
-    "title": "Get in Touch",
-    "section": "Response Time",
-    "text": "Response Time\nI typically respond to emails within 24-48 hours during business days.\n\nLooking forward to connecting with you!"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -194,97 +334,6 @@
     "title": "About Me",
     "section": "Personal",
     "text": "Personal\nI currently live in Richmond, Virginia with my wife, Rebecca, our two children, Miles and Margot, and our two dogs, Juniper and Pickle. We love spending our time walking or biking through our neighborhood and enjoying the trails along the James River.\n\n\nBooks\nIn my (limited) free time, I love reading fantasy and science fiction books. Some favorites are:\n\nBetween Two Fires by Christopher Buehlman\nThe Way of Kings by Brandon Sanderson\nVarious Philip K. Dick stories and books\nThe Witcher Series by Andrzej Sapkowski\n\n\n\n\nMovies\nAnd I love watching movies and learning about how they are made and the stories behind the industry. Here are some of my favorite movies and media to consume about movies:\n\nThe Big Picture Podcast\nBlank Check with Griffin & David\nIndiana Jones and the Last Crusade(1989)\nBefore Sunrise(1995)\nThe Truman Show(1998)\nNational Treasure(2004)\nSicario(2015)\n\nCheck out my Letterboxd profile to see what I’m watching:\nMy Letterboxd Profile\n\nLoading…"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Welcome to my blog! Here I share thoughts on housing policy, data analysis, and other topics that interest me.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Beginning\n\n\n\n\n\n\nintroduction\n\n\n\nAn introduction to my blog\n\n\n\n\n\nDec 6, 2025\n\n\nEric Mai\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "[Your Title/Position] [Your Institution/Organization] [Email] | [Phone] | [Website]"
-  },
-  {
-    "objectID": "cv.html#eric-mai",
-    "href": "cv.html#eric-mai",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "[Your Title/Position] [Your Institution/Organization] [Email] | [Phone] | [Website]"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\n\n[Degree Name]\n[University Name] | [Location] [Year]\n\nDissertation: [Title]\nAdvisor: [Advisor Name]\nRelevant coursework: [List courses]\n\n\n\n[Previous Degree]\n[University Name] | [Location] [Year]"
-  },
-  {
-    "objectID": "cv.html#research-experience",
-    "href": "cv.html#research-experience",
-    "title": "Curriculum Vitae",
-    "section": "Research Experience",
-    "text": "Research Experience\n\n[Research Position Title]\n[Institution/Lab Name] | [Location] [Start Date] - [End Date or Present]\n\nResearch focus and methodology\nKey findings or contributions\nTechnologies/tools used\n\n\n\n[Previous Research Position]\n[Institution/Lab Name] | [Location] [Start Date] - [End Date]\n\nResearch focus and methodology\nKey findings or contributions"
-  },
-  {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "Curriculum Vitae",
-    "section": "Publications",
-    "text": "Publications\n\nPeer-Reviewed Articles\n\n[Author names]. ([Year]). [Title]. [Journal Name], Volume, [Pages]. DOI: [DOI]\n[Author names]. ([Year]). [Title]. [Journal Name], Volume, [Pages].\n\n\n\nConference Proceedings\n\n[Author names]. ([Year]). [Title]. In [Conference Name] (pp. [Pages]). [Location].\n\n\n\nWorking Papers\n\n[Author names]. ([Year]). [Title]. [Status/Details]."
-  },
-  {
-    "objectID": "cv.html#presentations",
-    "href": "cv.html#presentations",
-    "title": "Curriculum Vitae",
-    "section": "Presentations",
-    "text": "Presentations\n\nConference Presentations\n\n[Title]. Presented at [Conference Name], [Location], [Date].\n[Title]. Presented at [Conference Name], [Location], [Date].\n\n\n\nInvited Talks\n\n[Title]. [Institution/Organization], [Location], [Date]."
-  },
-  {
-    "objectID": "cv.html#teaching-experience",
-    "href": "cv.html#teaching-experience",
-    "title": "Curriculum Vitae",
-    "section": "Teaching Experience",
-    "text": "Teaching Experience\n\n[Course Title]\n[Institution] | [Role: Instructor/TA] [Semester/Year]\n\nCourse description and level\nNumber of students\nKey topics covered"
-  },
-  {
-    "objectID": "cv.html#grants-funding",
-    "href": "cv.html#grants-funding",
-    "title": "Curriculum Vitae",
-    "section": "Grants & Funding",
-    "text": "Grants & Funding\n\n[Grant Name], [Funding Agency], [Amount], [Year]\n[Fellowship Name], [Organization], [Year]"
-  },
-  {
-    "objectID": "cv.html#professional-service",
-    "href": "cv.html#professional-service",
-    "title": "Curriculum Vitae",
-    "section": "Professional Service",
-    "text": "Professional Service\n\nReviewing\n\nReviewer for [Journal Name]\nReviewer for [Conference Name]\n\n\n\nCommittee Membership\n\n[Committee Name], [Organization], [Year]\n[Committee Name], [Organization], [Year]"
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "Curriculum Vitae",
-    "section": "Skills",
-    "text": "Skills\nTechnical Skills: [List technical and research skills] Software: [R, Python, STATA, etc.] Languages: [English (native), etc.]"
-  },
-  {
-    "objectID": "cv.html#professional-memberships",
-    "href": "cv.html#professional-memberships",
-    "title": "Curriculum Vitae",
-    "section": "Professional Memberships",
-    "text": "Professional Memberships\n\n[Organization Name], [Member Type], [Year]\n[Organization Name], [Member Type], [Year]"
-  },
-  {
-    "objectID": "cv.html#references",
-    "href": "cv.html#references",
-    "title": "Curriculum Vitae",
-    "section": "References",
-    "text": "References\nAvailable upon request."
   },
   {
     "objectID": "portfolio.html",
@@ -313,54 +362,5 @@
     "title": "Portfolio",
     "section": "Data Visualizations",
     "text": "Data Visualizations\n\nVirginia Zoning Atlas\nThe initial iteration of the Virginia Zoning Atlas was built in partnership with Kyle Walker and utilizes the R programming language and Shiny to deliver a fast and responsive web map.\n\n\n\n\nVirginia Housing Choice Voucher Dashboard\nThis data dashboard was created to support the Virginia Housing Alliance and their advocacy for the 5,000 Families Pilot Program, a state-funded rental housing assistance program to support low-income households with school-aged children.\n\n\n\n\nADU Playbook\nWith increased attention on accessory dwelling units (ADU), this data dashboard and exploration was conducted to understand the range of ADU ordinances across Virginia. This compilation was a point-in-time analysis of how local governments regulate and restrict ADUs.\n\n\n\nFor more projects, visit my GitHub profile"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "Policy leader and researcher with proven track record securing $1M+ in grant funding, launching statewide data initiatives, and driving 20%+ annual revenue growth. Expertise combining data-driven research with strategic leadership to advance affordable housing solutions across Virginia.\nSkilled at building cross-sector partnerships, managing complex stakeholder relationships, and translating technical analysis into actionable policy. Previous career in archaeological research and cultural resource management from 2012 to 2018."
-  },
-  {
-    "objectID": "resume.html#professional-summary",
-    "href": "resume.html#professional-summary",
-    "title": "Resume",
-    "section": "",
-    "text": "Policy leader and researcher with proven track record securing $1M+ in grant funding, launching statewide data initiatives, and driving 20%+ annual revenue growth. Expertise combining data-driven research with strategic leadership to advance affordable housing solutions across Virginia.\nSkilled at building cross-sector partnerships, managing complex stakeholder relationships, and translating technical analysis into actionable policy. Previous career in archaeological research and cultural resource management from 2012 to 2018."
-  },
-  {
-    "objectID": "resume.html#work-experience",
-    "href": "resume.html#work-experience",
-    "title": "Resume",
-    "section": "Work Experience",
-    "text": "Work Experience\n\nVice President\nHDAdvisors | Richmond, Virginia January 2024 - December 2025\n\nDrive business development and strategic direction as equity partner, expanding client portfolio across nonprofit and government sectors\nLead consulting engagements for affordable housing development and organizational strategy; provide real estate finance consulting for low-capacity non-profit organizations\nProvide fractional executive leadership to nonprofit clients, serving concurrently as:\n\nExecutive Director for Strategy & Sustainability, HousingForward Virginia: Secured $1M in grant funding, grew revenue 20%+ annually, developed organization’s first fiscal controls policy, implemented GAAP, led first strategic planning process, manageD 6,000+ subscriber newsletter, managed diverse board of 15+ housing leaders across public/private sectors\n\n\n\n\nSenior Associate\nHDAdvisors | Richmond, Virginia March 2020 - December 2023\n\nCo-authored HB854 Virginia Statewide Housing Needs Assessment commissioned by Virginia General Assembly, influencing state housing policy\nLed housing needs assessments for 5+ localities\nPlanned and executed HousingX 2022, an affordable housing innovation conference bringing together 200+ affordable housing innovators and practitioners\nProvided fractional leadership to nonprofit clients, serving concurrently as:\n\nDirector of Real Estate, Maggie Walker Community Land Trust: Oversaw 30+ unit affordable homeownership pipeline, expanded developer partnerships for land acquisition, manage government and partner relationships\n\n\n\n\nResearch Assistant\nVCU Survey and Evaluation Research Lab | Richmond, Virginia May 2018 - March 2020\n\nCo-authored Virginia Department of Health report establishing framework for Overdose Fatality Review Team\nEvaluated diversity and inclusion program effectiveness in higher education\nMaintained complex database supporting statewide Judicial Performance Evaluation program\n\n\n\nField Archaeologist\nCirca~ Cultural Resources Management | Williamsburg, Virginia January 2012 - May 2018\n\nWhistleblower to protect the Monacan Nation’s historic capital, Rassawek\nExcavated over 30 sites across the Mid-Atlantic, ranging from pre-historic to late 19th century"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Resume",
-    "section": "Education",
-    "text": "Education\n\nMaster of Urban and Regional Planning\nVirginia Commonwealth University | Richmond, Virginia 2020\n\nMajor: Urban and Regional Planning\nGraduate Certificate: Geographic Information Systems (GIS)\nJohn Marlles Scholarship recipient\n\n\n\nMaster of Art\nUniversity of Leicester | Leicestershire, UK 2017\n\nMajor: Archaeology and Heritage Management\nMark Pluciennik MA Dissertation Prize recipient\n\n\n\nBachelor of Art\nChristopher Newport University | Newport News, Virginia 2011\n\nMajor: Art History\nMinor: Studio"
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Resume",
-    "section": "Skills",
-    "text": "Skills\n\nTechnical Skills:\n\nGrant writing and fund development ($1M+ secured)\nNonprofit accounting\nProgram evaluation and impact assessment\nBudget management and financial oversight\nStakeholder engagement and facilitation\nCompliance and reporting\nReal estate finance and development\n• Strategic planning and implementation\nPolicy research and white paper development\nData visualization and dashboard development\nPublic speaking and presentations\nSocial media strategy and content management\nWordPress and web application development\nOrganizational management and board governance\n\n\n\n\n\nTools & Software:\n\nAdobe Creative Suite\nArcGIS\nCanva\nLLM (Claude, ChatGPT, Gemini)\nMicrosoft Power BI\nPositron\nQGIS\nRDS\nRStudio\nS3\nSalesforce\nShiny\nSQL fundamentals\nTableau\n\n\n\n\n\nLanguages:\n\nR\nHTML\n\n\n\nBoard Leadership and Advisory Roles\n\nCity of Richmond Zoning Advisory Council | June 2024 - Present\nCommonwealth Catholic Charities Housing Corporation Board | January 2025 - Present\nRVA CDC Board | June 2024 - Present\nVirginia Housing Supportive Housing Solution Advisory Council | January 2024 - Present\nproject:HOMES Community Engagement Board | January 2020 - May 2023\nCouncil of Virginia Archaeologists | January 2020 - January 2023\n\n\n\nCertifications, Commissions, and Licenses\n\nVirginia Notary Public, Expiration Date: 8/31/2029\nVirginia DPOR Approved Post-License and Continuing Education Instructor for Real Estate, Expiration Date: 7/31/2027\n\nZoning & Housing 101\nLand Use\nLocal Laws and Zoning"
-  },
-  {
-    "objectID": "resume.html#board-leadership-and-advisory-roles",
-    "href": "resume.html#board-leadership-and-advisory-roles",
-    "title": "Resume",
-    "section": "Board Leadership and Advisory Roles",
-    "text": "Board Leadership and Advisory Roles\n\nCity of Richmond Zoning Advisory Council | June 2024 - Present\nCommonwealth Catholic Charities Housing Corporation Board | January 2025 - Present\nRVA CDC Board | June 2024 - Present\nVirginia Housing Supportive Housing Solution Advisory Council | January 2024 - Present\nproject:HOMES Community Engagement Board | January 2020 - May 2023\nCouncil of Virginia Archaeologists | January 2020 - January 2023"
-  },
-  {
-    "objectID": "resume.html#certifications-commissions-and-licenses",
-    "href": "resume.html#certifications-commissions-and-licenses",
-    "title": "Resume",
-    "section": "Certifications, Commissions, and Licenses",
-    "text": "Certifications, Commissions, and Licenses\n\nVirginia Notary Public, Expiration Date: 8/31/2029\nVirginia DPOR Approved Post-License and Continuing Education Instructor for Real Estate, Expiration Date: 7/31/2027\n\nZoning & Housing 101\nLand Use\nLocal Laws and Zoning"
   }
 ]
