@@ -1,14 +1,25 @@
 ---
 title: "New Beginning"
 author: "Eric Mai"
-date: "2025-12-06"
-categories: [introduction]
-description: "An introduction to my blog"
+date: "2026-05-28"
+categories: [data]
+description: "Turning what you do into data"
 ---
 
-Welcome to my blog! I'm excited to share my thoughts and insights, not just on housing policy, but other issues and areas of interest for me.
+In my experience, I have seen so many organizations that misunderstand data and how to connect that data to their goals and mission. The below is an adaption of a brief guide that I wrote for staff at the City of Richmond.
 
-## What to Expect
+## Getting started
+
+### Turning what you do into data
+
+Every single thing that you do here at your organization can be quantified and qualified in some way. The number of meetings you have with residents, the types of partners you are meeting with, the number of events you hold... the list can go on and on.  
+
+All of these activities have a specific purpose and goal. Otherwise, why are you doing what you’re doing?! 
+
+Are there some things that you do that aren’t part of an official program? Or maybe there are responsibilities from a job description that aren’t captured in a program? You should consider adding those things! 
+
+Let's count all the things
+
 
 This blog will feature:
 
